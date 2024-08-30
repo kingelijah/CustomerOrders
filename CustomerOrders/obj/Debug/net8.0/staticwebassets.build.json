@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "j5jMXicJJiPX0+ht3aTY++/kUYzb+W1AEpnCFea/3WU=",
+  "Source": "CustomerOrders.API",
+  "BasePath": "_content/CustomerOrders.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

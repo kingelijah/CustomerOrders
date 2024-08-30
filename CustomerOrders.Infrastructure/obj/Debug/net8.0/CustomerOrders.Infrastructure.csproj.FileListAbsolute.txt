@@ -1,0 +1,17 @@
+C:\Users\ealeakhue\Desktop\CustomerOrders\CustomerOrders.Infrastructure\bin\Debug\net8.0\CustomerOrders.Infrastructure.deps.json
+C:\Users\ealeakhue\Desktop\CustomerOrders\CustomerOrders.Infrastructure\bin\Debug\net8.0\CustomerOrders.Infrastructure.runtimeconfig.json
+C:\Users\ealeakhue\Desktop\CustomerOrders\CustomerOrders.Infrastructure\bin\Debug\net8.0\CustomerOrders.Infrastructure.dll
+C:\Users\ealeakhue\Desktop\CustomerOrders\CustomerOrders.Infrastructure\bin\Debug\net8.0\CustomerOrders.Infrastructure.pdb
+C:\Users\ealeakhue\Desktop\CustomerOrders\CustomerOrders.Infrastructure\bin\Debug\net8.0\CustomerOrders.Domain.dll
+C:\Users\ealeakhue\Desktop\CustomerOrders\CustomerOrders.Infrastructure\bin\Debug\net8.0\CustomerOrders.Domain.pdb
+C:\Users\ealeakhue\Desktop\CustomerOrders\CustomerOrders.Infrastructure\obj\Debug\net8.0\CustomerOrders.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ealeakhue\Desktop\CustomerOrders\CustomerOrders.Infrastructure\obj\Debug\net8.0\CustomerOrders.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ealeakhue\Desktop\CustomerOrders\CustomerOrders.Infrastructure\obj\Debug\net8.0\CustomerOrders.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ealeakhue\Desktop\CustomerOrders\CustomerOrders.Infrastructure\obj\Debug\net8.0\CustomerOrders.Infrastructure.AssemblyInfo.cs
+C:\Users\ealeakhue\Desktop\CustomerOrders\CustomerOrders.Infrastructure\obj\Debug\net8.0\CustomerOrders.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ealeakhue\Desktop\CustomerOrders\CustomerOrders.Infrastructure\obj\Debug\net8.0\Customer.D09DB6CB.Up2Date
+C:\Users\ealeakhue\Desktop\CustomerOrders\CustomerOrders.Infrastructure\obj\Debug\net8.0\CustomerOrders.Infrastructure.dll
+C:\Users\ealeakhue\Desktop\CustomerOrders\CustomerOrders.Infrastructure\obj\Debug\net8.0\refint\CustomerOrders.Infrastructure.dll
+C:\Users\ealeakhue\Desktop\CustomerOrders\CustomerOrders.Infrastructure\obj\Debug\net8.0\CustomerOrders.Infrastructure.pdb
+C:\Users\ealeakhue\Desktop\CustomerOrders\CustomerOrders.Infrastructure\obj\Debug\net8.0\CustomerOrders.Infrastructure.genruntimeconfig.cache
+C:\Users\ealeakhue\Desktop\CustomerOrders\CustomerOrders.Infrastructure\obj\Debug\net8.0\ref\CustomerOrders.Infrastructure.dll
