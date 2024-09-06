@@ -9,7 +9,6 @@ namespace CustomerOrders.API.DTOs
         public Guid ProductId { get; set; }
         public int Quantity { get; set; }
         public Guid OrderId { get; set; }
-        public Order? Order { get; set; }
         public bool Isdeleted { get; set; }
         public DateTime DateCreated { get; set; }
         public DateTime DateUpdated

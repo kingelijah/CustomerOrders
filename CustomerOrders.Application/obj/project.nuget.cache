@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "07mKrUErqbFLFrE2fn1CK53cC3JyJYR9BGd29GAuPxfyVlKh1zLnILQwfpDRpihE9leeRzsN2R0Ex7wYPYJMkw==",
+  "dgSpecHash": "/oa5bO47V0ZbipycgyRTK05GnVMbf9PzlqJ1DM4ZRRuo3kNUNhjyfYpC2Y+L+8gPfq2E5FExGvEm9+jclBSvRQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\CustomerOrders.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ealeakhue\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\ealeakhue\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",
     "C:\\Users\\ealeakhue\\.nuget\\packages\\mediatr\\12.4.0\\mediatr.12.4.0.nupkg.sha512",
     "C:\\Users\\ealeakhue\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\ealeakhue\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",

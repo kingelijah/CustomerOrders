@@ -1,4 +1,5 @@
 ﻿using CustomerOrders.Application.Commands.CommandHandlers;
+using CustomerOrders.Application.Commands.Customers.UpdateCustomers;
 using CustomerOrders.Application.Queries.QueryHandlers;
 using CustomerOrders.Domain.Domain;
 using CustomerOrders.Domain.Interfaces;
@@ -32,8 +33,8 @@ namespace CustomerOrders.Tests.CommandhandlerTests.ProductTests
         {
             // Arrange
             var customerId = new Guid("1F3444C0-289B-42C5-9806-08DCC4E8D7F8");
-            var command = new UpdateCustomerCommandHandler.Command { Id = customerId, FirstName = "Updated Name" };
-            var customer = new Customer { Id = customerId, FirstName = "Old Name" };
+            var command = new UpdateCustomerCommand { Id = customerId, FirstName = "Updated Name" };
+            var customer = new Customer(Guid.NewGuid(), "elijah", "Manuel", "68 close", "785696", DateTime.UtcNow, DateTime.UtcNow, false);
             _unitOfWorkMock.Setup(u => u.Customers.GetByIdAsync(customerId)).ReturnsAsync(customer);
 
             // Act

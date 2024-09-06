@@ -13,3 +13,4 @@ C:\Users\ealeakhue\Desktop\CustomerOrders\CustomerOrders.Application\bin\Debug\n
 C:\Users\ealeakhue\Desktop\CustomerOrders\CustomerOrders.Application\bin\Debug\net8.0\CustomerOrders.Domain.pdb
 C:\Users\ealeakhue\Desktop\CustomerOrders\CustomerOrders.Application\obj\Debug\net8.0\CustomerOrders.Application.csproj.AssemblyReference.cache
 C:\Users\ealeakhue\Desktop\CustomerOrders\CustomerOrders.Application\obj\Debug\net8.0\Customer.B55E7DD1.Up2Date
+C:\Users\ealeakhue\Desktop\CustomerOrders\CustomerOrders.Application\obj\Debug\net8.0\CustomerOrders.Application.sourcelink.json

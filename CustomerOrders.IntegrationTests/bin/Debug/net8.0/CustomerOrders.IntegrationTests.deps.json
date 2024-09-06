@@ -408,6 +408,17 @@
           "lib/netstandard2.0/Azure.Identity.dll": {}
         }
       },
+      "BouncyCastle.NetCore/1.8.8": {
+        "runtime": {
+          "lib/netstandard2.0/BouncyCastle.Crypto.dll": {
+            "assemblyVersion": "1.8.8.0",
+            "fileVersion": "1.8.20265.1"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/BouncyCastle.Crypto.dll": {}
+        }
+      },
       "coverlet.collector/6.0.0": {},
       "FluentAssertions/6.12.0": {
         "dependencies": {
@@ -437,7 +448,7 @@
       "FluentValidation.AspNetCore/11.3.0": {
         "dependencies": {
           "FluentValidation": "11.9.2",
-          "FluentValidation.DependencyInjectionExtensions": "11.5.1"
+          "FluentValidation.DependencyInjectionExtensions": "11.9.2"
         },
         "runtime": {
           "lib/net6.0/FluentValidation.AspNetCore.dll": {
@@ -449,7 +460,7 @@
           "lib/net6.0/FluentValidation.AspNetCore.dll": {}
         }
       },
-      "FluentValidation.DependencyInjectionExtensions/11.5.1": {
+      "FluentValidation.DependencyInjectionExtensions/11.9.2": {
         "dependencies": {
           "FluentValidation": "11.9.2",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0"
@@ -457,7 +468,7 @@
         "runtime": {
           "lib/netstandard2.1/FluentValidation.DependencyInjectionExtensions.dll": {
             "assemblyVersion": "11.0.0.0",
-            "fileVersion": "11.5.1.0"
+            "fileVersion": "11.9.2.0"
           }
         },
         "compile": {
@@ -1414,6 +1425,20 @@
           "lib/netstandard2.0/NuGet.Frameworks.dll": {}
         }
       },
+      "OpenPgp.FluentApi/1.2.1": {
+        "dependencies": {
+          "BouncyCastle.NetCore": "1.8.8"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Org.BouncyCastle.Bcpg.OpenPgp.FluentApi.dll": {
+            "assemblyVersion": "1.2.1.0",
+            "fileVersion": "1.2.1.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/Org.BouncyCastle.Bcpg.OpenPgp.FluentApi.dll": {}
+        }
+      },
       "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {},
       "runtime.fedora.23-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {},
       "runtime.fedora.24-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {},
@@ -2298,6 +2323,7 @@
           "CustomerOrders.Infrastructure": "1.0.0",
           "FluentValidation": "11.9.2",
           "FluentValidation.AspNetCore": "11.3.0",
+          "FluentValidation.DependencyInjectionExtensions": "11.9.2",
           "MediatR": "12.4.0",
           "Microsoft.EntityFrameworkCore": "8.0.8",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.8",
@@ -2318,6 +2344,7 @@
         "dependencies": {
           "AutoMapper": "13.0.1",
           "CustomerOrders.Domain": "1.0.0",
+          "FluentValidation": "11.9.2",
           "MediatR": "12.4.0"
         },
         "runtime": {
@@ -2339,7 +2366,8 @@
         "dependencies": {
           "CustomerOrders.Domain": "1.0.0",
           "Microsoft.EntityFrameworkCore": "8.0.8",
-          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.8"
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.8",
+          "OpenPgp.FluentApi": "1.2.1"
         },
         "runtime": {
           "CustomerOrders.Infrastructure.dll": {}
@@ -4177,6 +4205,13 @@
       "path": "azure.identity/1.10.3",
       "hashPath": "azure.identity.1.10.3.nupkg.sha512"
     },
+    "BouncyCastle.NetCore/1.8.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Jx3dQd4SQOHZmxcImYSp0YT2WpYxosQXoZutbHORhFK/zHGH8aykfIyM6S4DVGyu4g9+KHGJUQEh2RH4qXj/Jg==",
+      "path": "bouncycastle.netcore/1.8.8",
+      "hashPath": "bouncycastle.netcore.1.8.8.nupkg.sha512"
+    },
     "coverlet.collector/6.0.0": {
       "type": "package",
       "serviceable": true,
@@ -4205,12 +4240,12 @@
       "path": "fluentvalidation.aspnetcore/11.3.0",
       "hashPath": "fluentvalidation.aspnetcore.11.3.0.nupkg.sha512"
     },
-    "FluentValidation.DependencyInjectionExtensions/11.5.1": {
+    "FluentValidation.DependencyInjectionExtensions/11.9.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-iWM0LS1MDYX06pcjMEQKqHirl2zkjHlNV23mEJSoR1IZI7KQmTa0RcTtGEJpj5+iHvBCfrzP2mYKM4FtRKVb+A==",
-      "path": "fluentvalidation.dependencyinjectionextensions/11.5.1",
-      "hashPath": "fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512"
+      "sha512": "sha512-PMAdnR1fX1c8DyUvu5YvRa0V0JHES8vzXnVX0OSS3z9W/SkuHqcGrtiSOdW1QehG3vZhXsKhqf3wgDzW/OYahA==",
+      "path": "fluentvalidation.dependencyinjectionextensions/11.9.2",
+      "hashPath": "fluentvalidation.dependencyinjectionextensions.11.9.2.nupkg.sha512"
     },
     "MediatR/12.4.0": {
       "type": "package",
@@ -4673,6 +4708,13 @@
       "sha512": "sha512-QWINE2x3MbTODsWT1Gh71GaGb5icBz4chS8VYvTgsBnsi8esgN6wtHhydd7fvToWECYGq7T4cgBBDiKD/363fg==",
       "path": "nuget.frameworks/6.5.0",
       "hashPath": "nuget.frameworks.6.5.0.nupkg.sha512"
+    },
+    "OpenPgp.FluentApi/1.2.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XroWMCmcbnSx8MIp4m/z7XEdmLK5mzAE9BUiIHozSCjQ1dOk9R/rYfIMN99KcSaxYB5Q3DBhBThuGbcmmAQV5w==",
+      "path": "openpgp.fluentapi/1.2.1",
+      "hashPath": "openpgp.fluentapi.1.2.1.nupkg.sha512"
     },
     "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
       "type": "package",

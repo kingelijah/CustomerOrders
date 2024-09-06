@@ -1,7 +1,14 @@
 ﻿using AutoMapper;
 using CustomerOrders.API.DTOs;
 using CustomerOrders.Application.Commands.CommandHandlers;
+using CustomerOrders.Application.Commands.Customers.CreateCustomers;
+using CustomerOrders.Application.Commands.Customers.UpdateCustomers;
+using CustomerOrders.Application.Commands.Orders.CreateOrders;
+using CustomerOrders.Application.Commands.Products.CreateProducts;
+using CustomerOrders.Application.Commands.Products.UpdateProducts;
 using CustomerOrders.Domain.Domain;
+using CustomerOrders.Domain.Domain.ValueObjects;
+using System.Data;
 
 namespace CustomerOrders.API.Mapping
 {
@@ -9,13 +16,13 @@ namespace CustomerOrders.API.Mapping
     {
         public UserProfile()
         {
-            CreateMap<CreateProductDTO, CreateProductCommandHandlers.Command>();
+            CreateMap<CreateProductDTO, CreateProductCommand>();
 
-            CreateMap<CreateProductCommandHandlers.Command, CreateProductDTO>();
+            CreateMap<CreateProductCommand, CreateProductDTO>();
 
-            CreateMap<UpdateProductDTO, UpdateProductCommandHandler.Command>();
+            CreateMap<UpdateProductDTO, UpdateProductCommand>();
 
-            CreateMap<UpdateProductCommandHandler.Command, UpdateProductDTO>();
+            CreateMap<UpdateProductCommand, UpdateProductDTO>();
 
             CreateMap<ProductDTO, Product>();
 
@@ -29,21 +36,24 @@ namespace CustomerOrders.API.Mapping
 
             CreateMap<Item, ItemDTO>();
 
-            CreateMap<CreateOrderDTO, CreateOrderCommandHandlers.Command>();
+            CreateMap<CreateOrderDTO, CreateOrderCommand>();
 
-            CreateMap<CreateOrderCommandHandlers.Command, CreateOrderDTO>();
+            CreateMap<CreateOrderCommand, CreateOrderDTO>();
 
-            CreateMap<CreateCustomerDTO, CreateCustomerCommandHandlers.Command>();
+            CreateMap<CreateCustomerDTO, CreateCustomerCommand>();
 
-            CreateMap<CreateCustomerCommandHandlers.Command, CreateCustomerDTO>();
+            CreateMap< CreateCustomerCommand, CreateCustomerDTO>();
 
-            CreateMap<UpdateCustomerDTO, UpdateCustomerCommandHandler.Command>();
+            CreateMap<UpdateCustomerDTO, UpdateCustomerCommand>();
 
-            CreateMap<UpdateCustomerCommandHandler.Command, UpdateCustomerDTO>();
+            CreateMap<UpdateCustomerCommand, UpdateCustomerDTO>();
 
             CreateMap<CustomerDTO, Customer>();
 
             CreateMap<Customer, CustomerDTO>();
+
+            CreateMap<Price, decimal>().ConvertUsing(r => r.Value);
+            CreateMap<decimal, Price>().ForMember(dest => dest.Value, opt => opt.MapFrom(src => src));
         }
     }
 }

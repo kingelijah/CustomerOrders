@@ -1,7 +1,9 @@
 ﻿using CustomerOrders.Application.Commands.CommandHandlers;
 using CustomerOrders.Application.Exceptions;
+using CustomerOrders.Application.Queries.Products;
 using CustomerOrders.Application.Queries.QueryHandlers;
 using CustomerOrders.Domain.Domain;
+using CustomerOrders.Domain.Domain.ValueObjects;
 using CustomerOrders.Domain.Interfaces;
 using Moq;
 using System;
@@ -33,10 +35,10 @@ namespace CustomerOrders.Tests.CommandhandlerTests.ProductTests
         {
             // Arrange
             var productId = new Guid("1F3444C0-289B-42C5-9806-08DCC4E8D7F8");
-            var expectedProduct = new Product { Id = productId, Name = "Test Product" };
+            var expectedProduct = new Product(Guid.NewGuid(), false, DateTime.UtcNow, DateTime.UtcNow, "shirt", new Price(4));
             _unitOfWorkMock.Setup(u => u.Products.GetByIdAsync(productId)).ReturnsAsync(expectedProduct);
 
-            var query = new GetProductQueryHandler.Query { Id = productId };
+            var query = new GetProductQuery { Id = productId };
 
             // Act
             var user = await _handler.Handle(query, CancellationToken.None);
@@ -52,7 +54,7 @@ namespace CustomerOrders.Tests.CommandhandlerTests.ProductTests
             var userId = new Guid("1F3444C0-289B-42C5-9806-08DCC4E8D7F8");
             _unitOfWorkMock.Setup(u => u.Products.GetByIdAsync(userId)).ReturnsAsync((Product)null);
 
-            var query = new GetProductQueryHandler.Query { Id = userId };
+            var query = new GetProductQuery { Id = userId };
 
             // Act & Assert
             Assert.ThrowsAsync<CustomException>(() => _handler.Handle(query, CancellationToken.None));

@@ -46,6 +46,19 @@
           }
         }
       },
+      "BouncyCastle.NetCore/1.8.8": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/BouncyCastle.Crypto.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/BouncyCastle.Crypto.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Humanizer.Core/2.14.1": {
         "type": "package",
         "compile": {
@@ -890,6 +903,18 @@
           "lib/netstandard2.0/Mono.TextTemplating.dll": {}
         }
       },
+      "OpenPgp.FluentApi/1.2.1": {
+        "type": "package",
+        "dependencies": {
+          "BouncyCastle.NetCore": "1.8.8"
+        },
+        "compile": {
+          "lib/netstandard2.0/Org.BouncyCastle.Bcpg.OpenPgp.FluentApi.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Org.BouncyCastle.Bcpg.OpenPgp.FluentApi.dll": {}
+        }
+      },
       "System.CodeDom/4.4.0": {
         "type": "package",
         "compile": {
@@ -1556,6 +1581,31 @@
         "azureicon.png",
         "lib/netstandard2.0/Azure.Identity.dll",
         "lib/netstandard2.0/Azure.Identity.xml"
+      ]
+    },
+    "BouncyCastle.NetCore/1.8.8": {
+      "sha512": "Jx3dQd4SQOHZmxcImYSp0YT2WpYxosQXoZutbHORhFK/zHGH8aykfIyM6S4DVGyu4g9+KHGJUQEh2RH4qXj/Jg==",
+      "type": "package",
+      "path": "bouncycastle.netcore/1.8.8",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "bouncycastle.netcore.1.8.8.nupkg.sha512",
+        "bouncycastle.netcore.nuspec",
+        "lib/Mono/BouncyCastle.Crypto.dll",
+        "lib/Mono/BouncyCastle.Crypto.xml",
+        "lib/MonoAndroid/BouncyCastle.Crypto.dll",
+        "lib/MonoAndroid/BouncyCastle.Crypto.xml",
+        "lib/MonoMac/BouncyCastle.Crypto.dll",
+        "lib/MonoMac/BouncyCastle.Crypto.xml",
+        "lib/MonoTouch/BouncyCastle.Crypto.dll",
+        "lib/MonoTouch/BouncyCastle.Crypto.xml",
+        "lib/net20/BouncyCastle.Crypto.dll",
+        "lib/net20/BouncyCastle.Crypto.xml",
+        "lib/netstandard2.0/BouncyCastle.Crypto.dll",
+        "lib/netstandard2.0/BouncyCastle.Crypto.xml",
+        "lib/xamarinios/BouncyCastle.Crypto.dll",
+        "lib/xamarinios/BouncyCastle.Crypto.xml"
       ]
     },
     "Humanizer.Core/2.14.1": {
@@ -2934,6 +2984,18 @@
         "mono.texttemplating.nuspec"
       ]
     },
+    "OpenPgp.FluentApi/1.2.1": {
+      "sha512": "XroWMCmcbnSx8MIp4m/z7XEdmLK5mzAE9BUiIHozSCjQ1dOk9R/rYfIMN99KcSaxYB5Q3DBhBThuGbcmmAQV5w==",
+      "type": "package",
+      "path": "openpgp.fluentapi/1.2.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/Org.BouncyCastle.Bcpg.OpenPgp.FluentApi.dll",
+        "openpgp.fluentapi.1.2.1.nupkg.sha512",
+        "openpgp.fluentapi.nuspec"
+      ]
+    },
     "System.CodeDom/4.4.0": {
       "sha512": "2sCCb7doXEwtYAbqzbF/8UAeDRMNmPaQbU2q50Psg1J9KzumyVVCgKQY8s53WIPTufNT0DpSe9QRvVjOzfDWBA==",
       "type": "package",
@@ -4118,7 +4180,8 @@
       "CustomerOrders.Domain >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 8.0.8",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.8",
-      "Microsoft.EntityFrameworkCore.Tools >= 8.0.8"
+      "Microsoft.EntityFrameworkCore.Tools >= 8.0.8",
+      "OpenPgp.FluentApi >= 1.2.1"
     ]
   },
   "packageFolders": {
@@ -4186,6 +4249,10 @@
             "suppressParent": "All",
             "target": "Package",
             "version": "[8.0.8, )"
+          },
+          "OpenPgp.FluentApi": {
+            "target": "Package",
+            "version": "[1.2.1, )"
           }
         },
         "imports": [

@@ -161,3 +161,6 @@ C:\Users\ealeakhue\Desktop\CustomerOrders\CustomerOrders.Tests\bin\Debug\net8.0\
 C:\Users\ealeakhue\Desktop\CustomerOrders\CustomerOrders.Tests\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\ealeakhue\Desktop\CustomerOrders\CustomerOrders.Tests\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\ealeakhue\Desktop\CustomerOrders\CustomerOrders.Tests\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ealeakhue\Desktop\CustomerOrders\CustomerOrders.Tests\obj\Debug\net8.0\CustomerOrders.Tests.sourcelink.json
+C:\Users\ealeakhue\Desktop\CustomerOrders\CustomerOrders.Tests\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+C:\Users\ealeakhue\Desktop\CustomerOrders\CustomerOrders.Tests\bin\Debug\net8.0\Org.BouncyCastle.Bcpg.OpenPgp.FluentApi.dll

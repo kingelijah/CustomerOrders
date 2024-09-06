@@ -10,7 +10,7 @@ namespace CustomerOrders.Domain.Interfaces
     public interface IUnitOfWork
     {
         IRepository<Product> Products { get; }
-        IRepository<Order> Orders { get; }
+        IOrderRepository Orders { get; }
         IRepository<Customer> Customers { get; }
 
         Task<int> CompleteAsync();

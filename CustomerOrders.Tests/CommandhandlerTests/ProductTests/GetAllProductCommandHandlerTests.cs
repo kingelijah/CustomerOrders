@@ -1,6 +1,8 @@
 ﻿using CustomerOrders.Application.Commands.CommandHandlers;
+using CustomerOrders.Application.Queries.Products;
 using CustomerOrders.Application.Queries.QueryHandlers;
 using CustomerOrders.Domain.Domain;
+using CustomerOrders.Domain.Domain.ValueObjects;
 using CustomerOrders.Domain.Interfaces;
 using Moq;
 
@@ -28,12 +30,12 @@ namespace CustomerOrders.Tests.CommandhandlerTests.ProductTests
             // Arrange
             var products = new List<Product>
             {
-                new Product { Id = new Guid("1F3444C0-289B-42C5-9806-08DCC4E8D7F8"), Name = "product 1" },
-                new Product { Id = new Guid("1F3444C0-289B-42C5-9806-08DCC4E8D7F8"), Name = "product 2" }
+                new Product(Guid.NewGuid(), false, DateTime.UtcNow, DateTime.UtcNow,"shirt", new Price(4)),
+                new Product(Guid.NewGuid(), false, DateTime.UtcNow, DateTime.UtcNow,"shirt", new Price(4))
             };
             _unitOfWorkMock.Setup(u => u.Products.GetAllAsync()).ReturnsAsync(products);
 
-            var query = new GetAllProductsQueryHandler.Query();
+            var query = new GetAllProductsQuery();
 
             // Act
             var result = await _handler.Handle(query, CancellationToken.None);

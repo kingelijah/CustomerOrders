@@ -5,21 +5,26 @@ using Azure.Core;
 using CustomerOrders.API.DTOs;
 using CustomerOrders.Application.Commands.CommandHandlers;
 using CustomerOrders.Application.Queries.QueryHandlers;
+using CustomerOrders.API.Abstractions;
+using CustomerOrders.Domain.Shared;
+using CustomerOrders.Application.Commands.Customers.CreateCustomers;
+using CustomerOrders.Application.Queries.Customers;
+using CustomerOrders.Application.Commands.Customers.UpdateCustomers;
+using CustomerOrders.Application.Commands.Customers.DeleteCustomers;
 
 namespace CustomerOrders.Controllers
 {
     /// <summary>
     /// Handles HTTP requests related to Customers.
     /// </summary>
-    [ApiController]
     [Route("api/[controller]")]
-    public class CustomerController : ControllerBase
+    public class CustomerController : ApiController
     {
         private readonly IMediator _mediator;
         private readonly ILogger<CustomerController> _logger;
         private readonly IMapper _mapper;
 
-        public CustomerController(ILogger<CustomerController> logger, IMediator mediator, IMapper mapper)
+        public CustomerController(ILogger<CustomerController> logger, IMediator mediator, IMapper mapper, ISender sender): base (sender)
         {
             _logger = logger;
             _mediator = mediator;
@@ -34,9 +39,9 @@ namespace CustomerOrders.Controllers
         [HttpPost]
         public async Task<IActionResult> CreateCustomer([FromBody] CreateCustomerDTO request)
         {
-            var command = _mapper.Map<CreateCustomerCommandHandlers.Command>(request);
-            await _mediator.Send(command);
-            return Created();
+            var command = _mapper.Map<CreateCustomerCommand>(request);
+            var result = await _mediator.Send(command);
+            return result.IsSuccess ? CreatedAtAction(nameof(GetCustomer), new { id = result.Value }, result.Value) : HandleFailure(result);
         }
         /// <summary>
         /// Gets a Customer by its ID.
@@ -47,7 +52,7 @@ namespace CustomerOrders.Controllers
         [HttpGet("{id}")]
         public async Task<IActionResult> GetCustomer(Guid id)
         {
-            var query = new GetCustomerQueryHandler.Query { Id = id };
+            var query = new GetCustomerQuery { Id = id };
             var result = await _mediator.Send(query);
             var customer = _mapper.Map<CustomerDTO>(result);
             return Ok(customer);
@@ -60,7 +65,7 @@ namespace CustomerOrders.Controllers
         [HttpGet]
         public async Task<IActionResult> GetAllCustomers()
         {
-            var query = new GetAllCustomersQueryHandler.Query();
+            var query = new GetAllCustomersQuery();
             var result = await _mediator.Send(query);
             var customers = _mapper.Map<List<CustomerDTO>>(result);
             return Ok(customers);
@@ -75,10 +80,10 @@ namespace CustomerOrders.Controllers
         [HttpPut("{id}")]
         public async Task<IActionResult> UpdateCustomer(Guid id, [FromBody] UpdateCustomerDTO request)
         {
-            var command = _mapper.Map<UpdateCustomerCommandHandler.Command>(request);
+            var command = _mapper.Map<UpdateCustomerCommand>(request);
             command.Id = id;
-            await _mediator.Send(command);
-            return NoContent();
+            var result = await _mediator.Send(command);
+            return result.IsSuccess ? NoContent() : HandleFailure(result);
         }
         /// <summary>
         /// Deletes a Customers by its ID.
@@ -89,7 +94,7 @@ namespace CustomerOrders.Controllers
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteCustomer(Guid id)
         {
-            var command = new DeleteCustomerCommandHandler.Command { Id = id };
+            var command = new DeleteCustomerCommand { Id = id };
             await _mediator.Send(command);
             return NoContent();
         }

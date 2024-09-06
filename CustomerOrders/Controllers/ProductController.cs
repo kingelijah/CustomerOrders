@@ -5,6 +5,12 @@ using Azure.Core;
 using CustomerOrders.API.DTOs;
 using CustomerOrders.Application.Commands.CommandHandlers;
 using CustomerOrders.Application.Queries.QueryHandlers;
+using CustomerOrders.Application.Commands.Products.CreateProducts;
+using CustomerOrders.Application.Queries.Products;
+using CustomerOrders.Application.Commands.Products.UpdateProducts;
+using CustomerOrders.Application.Commands.Products.DeleteProducts;
+using CustomerOrders.API.Abstractions;
+using CustomerOrders.Domain.Shared;
 
 namespace CustomerOrders.Controllers
 {
@@ -13,13 +19,13 @@ namespace CustomerOrders.Controllers
     /// </summary>
     [ApiController]
     [Route("api/[controller]")]
-    public class ProductController : ControllerBase
+    public class ProductController : ApiController
     {
         private readonly IMediator _mediator;
         private readonly ILogger<ProductController> _logger;
         private readonly IMapper _mapper;
 
-        public ProductController(ILogger<ProductController> logger, IMediator mediator, IMapper mapper)
+        public ProductController(ILogger<ProductController> logger, IMediator mediator, IMapper mapper, ISender sender) : base(sender)
         {
             _logger = logger;
             _mediator = mediator;
@@ -34,9 +40,9 @@ namespace CustomerOrders.Controllers
         [HttpPost]
         public async Task<IActionResult> CreateProduct([FromBody] CreateProductDTO request)
         {
-            var command = _mapper.Map<CreateProductCommandHandlers.Command>(request);
-            await _mediator.Send(command);
-            return Created();
+            var command = _mapper.Map<CreateProductCommand>(request);
+            var result = await _mediator.Send(command);
+            return result.IsSuccess ? CreatedAtAction(nameof(GetProduct), new { id = result.Value }, result.Value) : HandleFailure(result);
         }
         /// <summary>
         /// Gets a product by its ID.
@@ -47,7 +53,7 @@ namespace CustomerOrders.Controllers
         [HttpGet("{id}")]
         public async Task<IActionResult> GetProduct(Guid id)
         {
-            var query = new GetProductQueryHandler.Query { Id = id };
+            var query = new GetProductQuery { Id = id };
             var result = await _mediator.Send(query);
             var product = _mapper.Map<ProductDTO>(result);
             return Ok(product);
@@ -60,7 +66,7 @@ namespace CustomerOrders.Controllers
         [HttpGet]
         public async Task<IActionResult> GetAllProducts()
         {
-            var query = new GetAllProductsQueryHandler.Query();
+            var query = new GetAllProductsQuery();
             var result = await _mediator.Send(query);
             var products = _mapper.Map<List<ProductDTO>>(result);
             return Ok(products);
@@ -75,10 +81,10 @@ namespace CustomerOrders.Controllers
         [HttpPut("{id}")]
         public async Task<IActionResult> UpdateProduct(Guid id, [FromBody] UpdateProductDTO request)
         {
-            var command = _mapper.Map<UpdateProductCommandHandler.Command>(request);
+            var command = _mapper.Map<UpdateProductCommand>(request);
             command.Id = id;
-            await _mediator.Send(command);
-            return NoContent();
+            var result = await _mediator.Send(command);
+            return result.IsSuccess ? NoContent() : HandleFailure(result);
         }
         /// <summary>
         /// Deletes a product by its ID.
@@ -89,7 +95,7 @@ namespace CustomerOrders.Controllers
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteProduct(Guid id)
         {
-            var command = new DeleteProductCommandHandler.Command { Id = id };
+            var command = new DeleteProductCommand { Id = id };
             await _mediator.Send(command);
             return NoContent();
         }

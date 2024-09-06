@@ -1,19 +1,13 @@
-﻿using CustomerOrders.Domain.Domain;
-using CustomerOrders.Domain.Interfaces;
+﻿using CustomerOrders.Domain.Interfaces;
 using CustomerOrders.Infrastructure.Data.Configurations;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace CustomerOrders.Infrastructure.Data.Repositories
 {
     public class Repository<T> : IRepository<T> where T : class
     {
         private readonly AppDbContext _context;
-        private readonly DbSet<T> _dbSet;
+        public DbSet<T> _dbSet;
 
         public Repository(AppDbContext context)
         {
@@ -41,13 +35,5 @@ namespace CustomerOrders.Infrastructure.Data.Repositories
             _dbSet.Update(entity);
         }
 
-        public async Task DeleteAsync(int id)
-        {
-            var entity = await _dbSet.FindAsync(id);
-            if (entity != null)
-            {
-                _dbSet.Remove(entity);
-            }
-        }
     }
 }

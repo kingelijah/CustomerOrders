@@ -14,7 +14,7 @@ namespace CustomerOrders.Infrastructure
     {
         private readonly AppDbContext _context;
         private IRepository<Product> _products;
-        private IRepository<Order> _Orders;
+        private IOrderRepository _Orders;
         private IRepository<Customer> _customers;
 
 
@@ -30,11 +30,11 @@ namespace CustomerOrders.Infrastructure
                 return _products ??= new Repository<Product>(_context);
             }
         }
-        public IRepository<Order> Orders
+        public IOrderRepository Orders
         {
             get
             {
-                return _Orders ??= new Repository<Order>(_context);
+                return _Orders ??= new OrderRepository(_context);
             }
         }
         public IRepository<Customer> Customers
@@ -44,7 +44,6 @@ namespace CustomerOrders.Infrastructure
                 return _customers ??= new Repository<Customer>(_context);
             }
         }
-
 
         public Task<int> CompleteAsync()
         {

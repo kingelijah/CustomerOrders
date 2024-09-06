@@ -5,21 +5,24 @@ using Azure.Core;
 using CustomerOrders.API.DTOs;
 using CustomerOrders.Application.Commands.CommandHandlers;
 using CustomerOrders.Application.Queries.QueryHandlers;
+using CustomerOrders.Application.Commands.Orders.CreateOrders;
+using CustomerOrders.Application.Queries.Orders;
+using CustomerOrders.Application.Commands.Orders.DeleteOrders;
+using CustomerOrders.API.Abstractions;
 
 namespace CustomerOrders.Controllers
 {
     /// <summary>
     /// Handles HTTP requests related to Orders.
     /// </summary>
-    [ApiController]
     [Route("api/[controller]")]
-    public class OrderController : ControllerBase
+    public class OrderController : ApiController
     {
         private readonly IMediator _mediator;
         private readonly ILogger<OrderController> _logger;
         private readonly IMapper _mapper;
 
-        public OrderController(ILogger<OrderController> logger, IMediator mediator, IMapper mapper)
+        public OrderController(ILogger<OrderController> logger, IMediator mediator, IMapper mapper, ISender sender) : base(sender)
         {
             _logger = logger;
             _mediator = mediator;
@@ -34,9 +37,9 @@ namespace CustomerOrders.Controllers
         [HttpPost]
         public async Task<IActionResult> CreateOrder([FromBody] CreateOrderDTO request)
         {
-            var command = _mapper.Map<CreateOrderCommandHandlers.Command>(request);
-            await _mediator.Send(command);
-            return Created();
+            var command = _mapper.Map<CreateOrderCommand>(request);
+            var result = await _mediator.Send(command);
+            return result.IsSuccess ? CreatedAtAction(nameof(GetOrder), new { id = result.Value }, result.Value) : HandleFailure(result);
         }
         /// <summary>
         /// Gets a Order by its ID.
@@ -47,20 +50,20 @@ namespace CustomerOrders.Controllers
         [HttpGet("{id}")]
         public async Task<IActionResult> GetOrder(Guid id)
         {
-            var query = new GetOrderQueryHandler.Query { Id = id };
+            var query = new GetOrderQuery { Id = id };
             var result = await _mediator.Send(query);
             var order = _mapper.Map<OrderDTO>(result);
             return Ok(order);
         }
         /// <summary>
-        /// Gets all products.
+        /// Gets all orders.
         /// </summary>
-        /// <returns>A list of products.</returns>
-        /// <response code="200">Returns the list of products.</response>
-        [HttpGet]
-        public async Task<IActionResult> GetAllOrders()
+        /// <returns>A list of orders.</returns>
+        /// <response code="200">Returns the list of orders.</response>
+        [HttpGet("bydate")]
+        public async Task<IActionResult> GetOrdersByDate([FromQuery] DateTime startDate, [FromQuery] DateTime endDate)
         {
-            var query = new GetAllOrdersQueryHandler.Query();
+            var query = new GetOrdersByDateQuery { StartDate = startDate, EndDateDate = endDate };
             var result = await _mediator.Send(query);
             var orders = _mapper.Map<List<OrderDTO>>(result);
             return Ok(orders);
@@ -75,7 +78,7 @@ namespace CustomerOrders.Controllers
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteOrder(Guid id)
         {
-            var command = new DeleteOrderCommandHandler.Command { Id = id };
+            var command = new DeleteOrderCommand { Id = id };
             await _mediator.Send(command);
             return NoContent();
         }

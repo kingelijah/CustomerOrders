@@ -23,12 +23,8 @@ namespace CustomerOrders.Infrastructure.Data.Configurations
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Order>()
-                .HasMany(a => a.Items)
-                .WithOne(b => b.Order)
-                .HasForeignKey(b => b.OrderId);
-
-            base.OnModelCreating(modelBuilder);
+            modelBuilder.ApplyConfigurationsFromAssembly(typeof(AppDbContext).Assembly);
         }
+
     }
 }

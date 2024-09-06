@@ -467,3 +467,6 @@ C:\Users\ealeakhue\Desktop\CustomerOrders\CustomerOrders.IntegrationTests\bin\De
 C:\Users\ealeakhue\Desktop\CustomerOrders\CustomerOrders.IntegrationTests\bin\Debug\net8.0\CustomerOrders.API.pdb
 C:\Users\ealeakhue\Desktop\CustomerOrders\CustomerOrders.IntegrationTests\bin\Debug\net8.0\CustomerOrders.Application.pdb
 C:\Users\ealeakhue\Desktop\CustomerOrders\CustomerOrders.IntegrationTests\bin\Debug\net8.0\FluentAssertions.dll
+C:\Users\ealeakhue\Desktop\CustomerOrders\CustomerOrders.IntegrationTests\obj\Debug\net8.0\CustomerOrders.IntegrationTests.sourcelink.json
+C:\Users\ealeakhue\Desktop\CustomerOrders\CustomerOrders.IntegrationTests\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+C:\Users\ealeakhue\Desktop\CustomerOrders\CustomerOrders.IntegrationTests\bin\Debug\net8.0\Org.BouncyCastle.Bcpg.OpenPgp.FluentApi.dll

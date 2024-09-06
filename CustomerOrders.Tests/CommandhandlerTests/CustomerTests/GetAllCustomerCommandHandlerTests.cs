@@ -1,6 +1,8 @@
 ﻿using CustomerOrders.Application.Commands.CommandHandlers;
+using CustomerOrders.Application.Queries.Customers;
 using CustomerOrders.Application.Queries.QueryHandlers;
 using CustomerOrders.Domain.Domain;
+using CustomerOrders.Domain.Domain.ValueObjects;
 using CustomerOrders.Domain.Interfaces;
 using Moq;
 
@@ -28,12 +30,12 @@ namespace CustomerOrders.Tests.CommandhandlerTests.ProductTests
             // Arrange
             var customers = new List<Customer>
             {
-                new Customer { Id = new Guid("1F3444C0-289B-42C5-9806-08DCC4E8D7F8"), FirstName = "customer 1" },
-                new Customer { Id = new Guid("1F3444C0-289B-42C5-9806-08DCC4E8D7F8"), FirstName = "customer 2" }
+                new Customer(Guid.NewGuid(), "elijah","Manuel","68 close","785696", DateTime.UtcNow,DateTime.UtcNow, false),
+                 new Customer(Guid.NewGuid(), "elijah","Manuel","68 close","785696", DateTime.UtcNow,DateTime.UtcNow, false) 
             };
             _unitOfWorkMock.Setup(u => u.Customers.GetAllAsync()).ReturnsAsync(customers);
 
-            var query = new GetAllCustomersQueryHandler.Query();
+            var query = new GetAllCustomersQuery();
 
             // Act
             var result = await _handler.Handle(query, CancellationToken.None);
@@ -41,6 +43,6 @@ namespace CustomerOrders.Tests.CommandhandlerTests.ProductTests
             // Assert
             Assert.AreEqual(customers.Count, result.Count());
         }
-      
+
     }
 }

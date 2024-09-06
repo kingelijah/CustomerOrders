@@ -1,4 +1,5 @@
 ﻿using CustomerOrders.Application.Commands.CommandHandlers;
+using CustomerOrders.Application.Commands.Products.CreateProducts;
 using CustomerOrders.Application.Queries.QueryHandlers;
 using CustomerOrders.Domain.Domain;
 using CustomerOrders.Domain.Interfaces;
@@ -32,7 +33,7 @@ namespace CustomerOrders.Tests.CommandhandlerTests.ProductTests
         {
             // Arrange
 
-            var command = new CreateProductCommandHandlers.Command { Name = "Test Product" };
+            var command = new CreateProductCommand { Name = "Test Product", Price = 4 };
 
             // Act
             await _handler.Handle(command, CancellationToken.None);

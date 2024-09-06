@@ -34,7 +34,7 @@ namespace CustomerOrders.API.Middleware
                 _logger.LogError(ex, "An unhandled exception occurred");
                 context.Response.ContentType = "application/json";
                 context.Response.StatusCode = (int)HttpStatusCode.InternalServerError;
-                var response = new { message = "An unexpected error occurred here." };
+                var response = new { message = "An unexpected error occurred." };
                 await context.Response.WriteAsync(JsonConvert.SerializeObject(response));
             }
         }

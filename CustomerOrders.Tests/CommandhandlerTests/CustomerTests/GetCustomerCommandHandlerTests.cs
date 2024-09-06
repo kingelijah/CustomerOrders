@@ -1,5 +1,6 @@
 ﻿using CustomerOrders.Application.Commands.CommandHandlers;
 using CustomerOrders.Application.Exceptions;
+using CustomerOrders.Application.Queries.Customers;
 using CustomerOrders.Application.Queries.QueryHandlers;
 using CustomerOrders.Domain.Domain;
 using CustomerOrders.Domain.Interfaces;
@@ -33,10 +34,10 @@ namespace CustomerOrders.Tests.CommandhandlerTests.ProductTests
         {
             // Arrange
             var customerId = new Guid("1F3444C0-289B-42C5-9806-08DCC4E8D7F8");
-            var expectedProduct = new Customer { Id = customerId, FirstName = "Test Product" };
+            var expectedProduct = new Customer(Guid.NewGuid(), "elijah", "Manuel", "68 close", "785696", DateTime.UtcNow, DateTime.UtcNow, false);
             _unitOfWorkMock.Setup(u => u.Customers.GetByIdAsync(customerId)).ReturnsAsync(expectedProduct);
 
-            var query = new GetCustomerQueryHandler.Query { Id = customerId };
+            var query = new GetCustomerQuery { Id = customerId };
 
             // Act
             var user = await _handler.Handle(query, CancellationToken.None);
@@ -52,7 +53,7 @@ namespace CustomerOrders.Tests.CommandhandlerTests.ProductTests
             var customerId = new Guid("1F3444C0-289B-42C5-9806-08DCC4E8D7F8");
             _unitOfWorkMock.Setup(u => u.Customers.GetByIdAsync(customerId)).ReturnsAsync((Customer)null);
 
-            var query = new GetCustomerQueryHandler.Query { Id = customerId };
+            var query = new GetCustomerQuery { Id = customerId };
 
             // Act & Assert
             Assert.ThrowsAsync<CustomException>(() => _handler.Handle(query, CancellationToken.None));

@@ -1,7 +1,9 @@
 ﻿using CustomerOrders.Application.Commands.CommandHandlers;
 using CustomerOrders.Application.Exceptions;
+using CustomerOrders.Application.Queries.Orders;
 using CustomerOrders.Application.Queries.QueryHandlers;
 using CustomerOrders.Domain.Domain;
+using CustomerOrders.Domain.Domain.ValueObjects;
 using CustomerOrders.Domain.Interfaces;
 using Moq;
 using System;
@@ -22,7 +24,7 @@ namespace CustomerOrders.Tests.CommandhandlerTests.ProductTests
         public void SetUp()
         {
             _unitOfWorkMock = new Mock<IUnitOfWork>();
-            var userRepositoryMock = new Mock<IRepository<Order>>();
+            var userRepositoryMock = new Mock<IOrderRepository>();
             _unitOfWorkMock.Setup(u => u.Orders).Returns(userRepositoryMock.Object);
             _handler = new GetOrderQueryHandler(_unitOfWorkMock.Object);
             
@@ -32,11 +34,12 @@ namespace CustomerOrders.Tests.CommandhandlerTests.ProductTests
         public async Task Handle_ShouldReturnProduct_WhenProductExists()
         {
             // Arrange
+            var items = new List<Item>();
             var customerId = new Guid("1F3444C0-289B-42C5-9806-08DCC4E8D7F8");
-            var expectedProduct = new Order { Id = customerId, TotalPrice = 3 };
+            var expectedProduct = new Order(Guid.NewGuid(), Guid.NewGuid(), items, new Price(4), DateTime.UtcNow, DateTime.UtcNow, false);
             _unitOfWorkMock.Setup(u => u.Orders.GetByIdAsync(customerId)).ReturnsAsync(expectedProduct);
 
-            var query = new GetOrderQueryHandler.Query { Id = customerId };
+            var query = new GetOrderQuery { Id = customerId };
 
             // Act
             var user = await _handler.Handle(query, CancellationToken.None);
@@ -52,7 +55,7 @@ namespace CustomerOrders.Tests.CommandhandlerTests.ProductTests
             var customerIdId = new Guid("1F3444C0-289B-42C5-9806-08DCC4E8D7F8");
             _unitOfWorkMock.Setup(u => u.Orders.GetByIdAsync(customerIdId)).ReturnsAsync((Order)null);
 
-            var query = new GetOrderQueryHandler.Query { Id = customerIdId };
+            var query = new GetOrderQuery { Id = customerIdId };
 
             // Act & Assert
             Assert.ThrowsAsync<CustomException>(() => _handler.Handle(query, CancellationToken.None));

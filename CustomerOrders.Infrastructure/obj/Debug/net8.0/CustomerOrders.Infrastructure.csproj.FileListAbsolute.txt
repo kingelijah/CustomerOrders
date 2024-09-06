@@ -15,3 +15,4 @@ C:\Users\ealeakhue\Desktop\CustomerOrders\CustomerOrders.Infrastructure\obj\Debu
 C:\Users\ealeakhue\Desktop\CustomerOrders\CustomerOrders.Infrastructure\obj\Debug\net8.0\CustomerOrders.Infrastructure.pdb
 C:\Users\ealeakhue\Desktop\CustomerOrders\CustomerOrders.Infrastructure\obj\Debug\net8.0\CustomerOrders.Infrastructure.genruntimeconfig.cache
 C:\Users\ealeakhue\Desktop\CustomerOrders\CustomerOrders.Infrastructure\obj\Debug\net8.0\ref\CustomerOrders.Infrastructure.dll
+C:\Users\ealeakhue\Desktop\CustomerOrders\CustomerOrders.Infrastructure\obj\Debug\net8.0\CustomerOrders.Infrastructure.sourcelink.json

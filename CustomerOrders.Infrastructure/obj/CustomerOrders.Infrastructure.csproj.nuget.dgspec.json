@@ -128,6 +128,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.8, )"
+            },
+            "OpenPgp.FluentApi": {
+              "target": "Package",
+              "version": "[1.2.1, )"
             }
           },
           "imports": [

@@ -1,4 +1,5 @@
 ﻿using CustomerOrders.Domain.Domain;
+using CustomerOrders.Domain.Domain.ValueObjects;
 using FluentValidation;
 
 namespace CustomerOrders.API.DTOs
