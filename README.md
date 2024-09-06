@@ -13,7 +13,7 @@ https://localhost:44357/api/Order,
 
 Coding styles and Assumptions:
 I implemented fluent Validation Pipeline behavior for validating the various requests DTOS,
-I used a middleware to handle any other exception that happens in the application using a generic class,
+I used a middleware to handle any other exception that happens in the application using a custom exception class,
 I implemented the repository and unit of work pattern for persistence,
 I implemented DDD strictly using Value Objects for Price to ensure Immutablity,
 I implemented DDD by ensuring all domain logics were done in the domain,
