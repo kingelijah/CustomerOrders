@@ -19,7 +19,7 @@ namespace CustomerOrders.IntegrationTests.Controllers
             _httpClient = _applicationFactory.CreateClient();
         }
         [Fact]
-        public async Task Get_Always_ReturnAllProducts()
+        public async Task Get_Always_ReturnAllCustomers()
         {
             var response = await _httpClient.GetAsync("api/customer");
             Assert.Equal(HttpStatusCode.OK, response.StatusCode);

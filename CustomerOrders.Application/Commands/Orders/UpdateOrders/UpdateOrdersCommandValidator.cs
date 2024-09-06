@@ -13,6 +13,7 @@ namespace CustomerOrders.Application.Commands.CommandHandlers
     {
         public UpdateOrdersCommandValidator() 
         {
+            RuleFor(x => x.Id).NotEmpty();
             RuleFor(x => x.Items).NotEmpty();
             RuleFor(x => x.TotalPrice).NotEmpty();
             RuleFor(x => x.CustomerId).NotEmpty();

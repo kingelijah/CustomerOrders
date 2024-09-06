@@ -3,16 +3,76 @@
   "WorkspaceRootPath": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{99034B82-E962-4C26-A274-E4BE45B5BBF1}|CustomerOrders\\CustomerOrders.API.csproj|c:\\users\\ealeakhue\\desktop\\customerorders\\customerorders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99034B82-E962-4C26-A274-E4BE45B5BBF1}|CustomerOrders\\CustomerOrders.API.csproj|solutionrelative:customerorders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99034B82-E962-4C26-A274-E4BE45B5BBF1}|CustomerOrders\\CustomerOrders.API.csproj|c:\\users\\ealeakhue\\desktop\\customerorders\\customerorders\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99034B82-E962-4C26-A274-E4BE45B5BBF1}|CustomerOrders\\CustomerOrders.API.csproj|solutionrelative:customerorders\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62455D12-C7CC-40EB-94F0-D327520EB061}|CustomerOrders.IntegrationTests\\CustomerOrders.IntegrationTests.csproj|c:\\users\\ealeakhue\\desktop\\customerorders\\customerorders.integrationtests\\controllers\\productcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62455D12-C7CC-40EB-94F0-D327520EB061}|CustomerOrders.IntegrationTests\\CustomerOrders.IntegrationTests.csproj|solutionrelative:customerorders.integrationtests\\controllers\\productcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62455D12-C7CC-40EB-94F0-D327520EB061}|CustomerOrders.IntegrationTests\\CustomerOrders.IntegrationTests.csproj|c:\\users\\ealeakhue\\desktop\\customerorders\\customerorders.integrationtests\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62455D12-C7CC-40EB-94F0-D327520EB061}|CustomerOrders.IntegrationTests\\CustomerOrders.IntegrationTests.csproj|solutionrelative:customerorders.integrationtests\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99034B82-E962-4C26-A274-E4BE45B5BBF1}|CustomerOrders\\CustomerOrders.API.csproj|c:\\users\\ealeakhue\\desktop\\customerorders\\customerorders\\abstractions\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99034B82-E962-4C26-A274-E4BE45B5BBF1}|CustomerOrders\\CustomerOrders.API.csproj|solutionrelative:customerorders\\abstractions\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99034B82-E962-4C26-A274-E4BE45B5BBF1}|CustomerOrders\\CustomerOrders.API.csproj|c:\\users\\ealeakhue\\desktop\\customerorders\\customerorders\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99034B82-E962-4C26-A274-E4BE45B5BBF1}|CustomerOrders\\CustomerOrders.API.csproj|solutionrelative:customerorders\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD20839-DFBA-410D-92A4-E13EF7F944C2}|CustomerOrders.Application\\CustomerOrders.Application.csproj|c:\\users\\ealeakhue\\desktop\\customerorders\\customerorders.application\\commands\\products\\updateproducts\\updateproductcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD20839-DFBA-410D-92A4-E13EF7F944C2}|CustomerOrders.Application\\CustomerOrders.Application.csproj|solutionrelative:customerorders.application\\commands\\products\\updateproducts\\updateproductcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD20839-DFBA-410D-92A4-E13EF7F944C2}|CustomerOrders.Application\\CustomerOrders.Application.csproj|c:\\users\\ealeakhue\\desktop\\customerorders\\customerorders.application\\commands\\products\\updateproducts\\updateproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD20839-DFBA-410D-92A4-E13EF7F944C2}|CustomerOrders.Application\\CustomerOrders.Application.csproj|solutionrelative:customerorders.application\\commands\\products\\updateproducts\\updateproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD20839-DFBA-410D-92A4-E13EF7F944C2}|CustomerOrders.Application\\CustomerOrders.Application.csproj|c:\\users\\ealeakhue\\desktop\\customerorders\\customerorders.application\\commands\\products\\updateproducts\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD20839-DFBA-410D-92A4-E13EF7F944C2}|CustomerOrders.Application\\CustomerOrders.Application.csproj|solutionrelative:customerorders.application\\commands\\products\\updateproducts\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD20839-DFBA-410D-92A4-E13EF7F944C2}|CustomerOrders.Application\\CustomerOrders.Application.csproj|c:\\users\\ealeakhue\\desktop\\customerorders\\customerorders.application\\commands\\products\\createproducts\\createproductvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD20839-DFBA-410D-92A4-E13EF7F944C2}|CustomerOrders.Application\\CustomerOrders.Application.csproj|solutionrelative:customerorders.application\\commands\\products\\createproducts\\createproductvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD20839-DFBA-410D-92A4-E13EF7F944C2}|CustomerOrders.Application\\CustomerOrders.Application.csproj|c:\\users\\ealeakhue\\desktop\\customerorders\\customerorders.application\\commands\\products\\createproducts\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD20839-DFBA-410D-92A4-E13EF7F944C2}|CustomerOrders.Application\\CustomerOrders.Application.csproj|solutionrelative:customerorders.application\\commands\\products\\createproducts\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD20839-DFBA-410D-92A4-E13EF7F944C2}|CustomerOrders.Application\\CustomerOrders.Application.csproj|c:\\users\\ealeakhue\\desktop\\customerorders\\customerorders.application\\commands\\products\\createproducts\\updateproductcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD20839-DFBA-410D-92A4-E13EF7F944C2}|CustomerOrders.Application\\CustomerOrders.Application.csproj|solutionrelative:customerorders.application\\commands\\products\\createproducts\\updateproductcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD20839-DFBA-410D-92A4-E13EF7F944C2}|CustomerOrders.Application\\CustomerOrders.Application.csproj|c:\\users\\ealeakhue\\desktop\\customerorders\\customerorders.application\\commands\\orders\\updateorders\\updateorderscommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD20839-DFBA-410D-92A4-E13EF7F944C2}|CustomerOrders.Application\\CustomerOrders.Application.csproj|solutionrelative:customerorders.application\\commands\\orders\\updateorders\\updateorderscommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD20839-DFBA-410D-92A4-E13EF7F944C2}|CustomerOrders.Application\\CustomerOrders.Application.csproj|c:\\users\\ealeakhue\\desktop\\customerorders\\customerorders.application\\commands\\customers\\updatecustomers\\updatecustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD20839-DFBA-410D-92A4-E13EF7F944C2}|CustomerOrders.Application\\CustomerOrders.Application.csproj|solutionrelative:customerorders.application\\commands\\customers\\updatecustomers\\updatecustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD20839-DFBA-410D-92A4-E13EF7F944C2}|CustomerOrders.Application\\CustomerOrders.Application.csproj|c:\\users\\ealeakhue\\desktop\\customerorders\\customerorders.application\\commands\\orders\\updateorders\\updateorderscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD20839-DFBA-410D-92A4-E13EF7F944C2}|CustomerOrders.Application\\CustomerOrders.Application.csproj|solutionrelative:customerorders.application\\commands\\orders\\updateorders\\updateorderscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99034B82-E962-4C26-A274-E4BE45B5BBF1}|CustomerOrders\\CustomerOrders.API.csproj|c:\\users\\ealeakhue\\desktop\\customerorders\\customerorders\\dtos\\updatecustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99034B82-E962-4C26-A274-E4BE45B5BBF1}|CustomerOrders\\CustomerOrders.API.csproj|solutionrelative:customerorders\\dtos\\updatecustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{99034B82-E962-4C26-A274-E4BE45B5BBF1}|CustomerOrders\\CustomerOrders.API.csproj|c:\\users\\ealeakhue\\desktop\\customerorders\\customerorders\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99034B82-E962-4C26-A274-E4BE45B5BBF1}|CustomerOrders\\CustomerOrders.API.csproj|solutionrelative:customerorders\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F4061200-1627-408E-BA41-86591F67F1B1}|CustomerOrders.Infrastructure\\CustomerOrders.Infrastructure.csproj|c:\\users\\ealeakhue\\desktop\\customerorders\\customerorders.infrastructure\\data\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4061200-1627-408E-BA41-86591F67F1B1}|CustomerOrders.Infrastructure\\CustomerOrders.Infrastructure.csproj|solutionrelative:customerorders.infrastructure\\data\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99034B82-E962-4C26-A274-E4BE45B5BBF1}|CustomerOrders\\CustomerOrders.API.csproj|c:\\users\\ealeakhue\\desktop\\customerorders\\customerorders\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99034B82-E962-4C26-A274-E4BE45B5BBF1}|CustomerOrders\\CustomerOrders.API.csproj|solutionrelative:customerorders\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{99034B82-E962-4C26-A274-E4BE45B5BBF1}|CustomerOrders\\CustomerOrders.API.csproj|c:\\users\\ealeakhue\\desktop\\customerorders\\customerorders\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,10 +85,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{99034B82-E962-4C26-A274-E4BE45B5BBF1}|CustomerOrders\\CustomerOrders.API.csproj|c:\\users\\ealeakhue\\desktop\\customerorders\\customerorders\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{99034B82-E962-4C26-A274-E4BE45B5BBF1}|CustomerOrders\\CustomerOrders.API.csproj|solutionrelative:customerorders\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Infrastructure\\Migrations\\20240906074018_createtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CustomerOrders.Infrastructure\\Migrations\\20240906074018_createtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{18B915CB-95A8-4FCA-A9BE-C163CCBB03D9}|CustomerOrders.Tests\\CustomerOrders.Tests.csproj|c:\\users\\ealeakhue\\desktop\\customerorders\\customerorders.tests\\commandhandlertests\\ordertests\\createordercommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -71,10 +127,6 @@
       "RelativeMoniker": "D:0:0:{99034B82-E962-4C26-A274-E4BE45B5BBF1}|CustomerOrders\\CustomerOrders.API.csproj|solutionrelative:customerorders\\dtos\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CD20839-DFBA-410D-92A4-E13EF7F944C2}|CustomerOrders.Application\\CustomerOrders.Application.csproj|c:\\users\\ealeakhue\\desktop\\customerorders\\customerorders.application\\commands\\products\\createproducts\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CD20839-DFBA-410D-92A4-E13EF7F944C2}|CustomerOrders.Application\\CustomerOrders.Application.csproj|solutionrelative:customerorders.application\\commands\\products\\createproducts\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{99034B82-E962-4C26-A274-E4BE45B5BBF1}|CustomerOrders\\CustomerOrders.API.csproj|c:\\users\\ealeakhue\\desktop\\customerorders\\customerorders\\dtos\\itemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99034B82-E962-4C26-A274-E4BE45B5BBF1}|CustomerOrders\\CustomerOrders.API.csproj|solutionrelative:customerorders\\dtos\\itemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -83,20 +135,12 @@
       "RelativeMoniker": "D:0:0:{99034B82-E962-4C26-A274-E4BE45B5BBF1}|CustomerOrders\\CustomerOrders.API.csproj|solutionrelative:customerorders\\dtos\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99034B82-E962-4C26-A274-E4BE45B5BBF1}|CustomerOrders\\CustomerOrders.API.csproj|c:\\users\\ealeakhue\\desktop\\customerorders\\customerorders\\dtos\\updatecustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99034B82-E962-4C26-A274-E4BE45B5BBF1}|CustomerOrders\\CustomerOrders.API.csproj|solutionrelative:customerorders\\dtos\\updatecustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6E4C1CAE-FF10-4AAE-9EDC-53D5A4DB3443}|CustomerOrders.Domain\\CustomerOrders.Domain.csproj|c:\\users\\ealeakhue\\desktop\\customerorders\\customerorders.domain\\domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E4C1CAE-FF10-4AAE-9EDC-53D5A4DB3443}|CustomerOrders.Domain\\CustomerOrders.Domain.csproj|solutionrelative:customerorders.domain\\domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{99034B82-E962-4C26-A274-E4BE45B5BBF1}|CustomerOrders\\CustomerOrders.API.csproj|c:\\users\\ealeakhue\\desktop\\customerorders\\customerorders\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99034B82-E962-4C26-A274-E4BE45B5BBF1}|CustomerOrders\\CustomerOrders.API.csproj|solutionrelative:customerorders\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CD20839-DFBA-410D-92A4-E13EF7F944C2}|CustomerOrders.Application\\CustomerOrders.Application.csproj|c:\\users\\ealeakhue\\desktop\\customerorders\\customerorders.application\\commands\\products\\updateproducts\\updateproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CD20839-DFBA-410D-92A4-E13EF7F944C2}|CustomerOrders.Application\\CustomerOrders.Application.csproj|solutionrelative:customerorders.application\\commands\\products\\updateproducts\\updateproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2CD20839-DFBA-410D-92A4-E13EF7F944C2}|CustomerOrders.Application\\CustomerOrders.Application.csproj|c:\\users\\ealeakhue\\desktop\\customerorders\\customerorders.application\\commands\\products\\deleteproducts\\deleteproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -119,28 +163,12 @@
       "RelativeMoniker": "D:0:0:{2CD20839-DFBA-410D-92A4-E13EF7F944C2}|CustomerOrders.Application\\CustomerOrders.Application.csproj|solutionrelative:customerorders.application\\commands\\customers\\deletecustomers\\deletecustomercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CD20839-DFBA-410D-92A4-E13EF7F944C2}|CustomerOrders.Application\\CustomerOrders.Application.csproj|c:\\users\\ealeakhue\\desktop\\customerorders\\customerorders.application\\commands\\orders\\updateorders\\updateorderscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CD20839-DFBA-410D-92A4-E13EF7F944C2}|CustomerOrders.Application\\CustomerOrders.Application.csproj|solutionrelative:customerorders.application\\commands\\orders\\updateorders\\updateorderscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CD20839-DFBA-410D-92A4-E13EF7F944C2}|CustomerOrders.Application\\CustomerOrders.Application.csproj|c:\\users\\ealeakhue\\desktop\\customerorders\\customerorders.application\\commands\\orders\\updateorders\\updateorderscommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CD20839-DFBA-410D-92A4-E13EF7F944C2}|CustomerOrders.Application\\CustomerOrders.Application.csproj|solutionrelative:customerorders.application\\commands\\orders\\updateorders\\updateorderscommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2CD20839-DFBA-410D-92A4-E13EF7F944C2}|CustomerOrders.Application\\CustomerOrders.Application.csproj|c:\\users\\ealeakhue\\desktop\\customerorders\\customerorders.application\\commands\\orders\\createorders\\createordercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CD20839-DFBA-410D-92A4-E13EF7F944C2}|CustomerOrders.Application\\CustomerOrders.Application.csproj|solutionrelative:customerorders.application\\commands\\orders\\createorders\\createordercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2CD20839-DFBA-410D-92A4-E13EF7F944C2}|CustomerOrders.Application\\CustomerOrders.Application.csproj|c:\\users\\ealeakhue\\desktop\\customerorders\\customerorders.application\\commands\\customers\\updatecustomers\\updatecustomercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CD20839-DFBA-410D-92A4-E13EF7F944C2}|CustomerOrders.Application\\CustomerOrders.Application.csproj|solutionrelative:customerorders.application\\commands\\customers\\updatecustomers\\updatecustomercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CD20839-DFBA-410D-92A4-E13EF7F944C2}|CustomerOrders.Application\\CustomerOrders.Application.csproj|c:\\users\\ealeakhue\\desktop\\customerorders\\customerorders.application\\commands\\customers\\updatecustomers\\updatecustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CD20839-DFBA-410D-92A4-E13EF7F944C2}|CustomerOrders.Application\\CustomerOrders.Application.csproj|solutionrelative:customerorders.application\\commands\\customers\\updatecustomers\\updatecustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CD20839-DFBA-410D-92A4-E13EF7F944C2}|CustomerOrders.Application\\CustomerOrders.Application.csproj|c:\\users\\ealeakhue\\desktop\\customerorders\\customerorders.application\\commands\\products\\updateproducts\\updateproductcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CD20839-DFBA-410D-92A4-E13EF7F944C2}|CustomerOrders.Application\\CustomerOrders.Application.csproj|solutionrelative:customerorders.application\\commands\\products\\updateproducts\\updateproductcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6E4C1CAE-FF10-4AAE-9EDC-53D5A4DB3443}|CustomerOrders.Domain\\CustomerOrders.Domain.csproj|c:\\users\\ealeakhue\\desktop\\customerorders\\customerorders.domain\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -211,32 +239,16 @@
       "RelativeMoniker": "D:0:0:{99034B82-E962-4C26-A274-E4BE45B5BBF1}|CustomerOrders\\CustomerOrders.API.csproj|solutionrelative:customerorders\\dtos\\createcustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99034B82-E962-4C26-A274-E4BE45B5BBF1}|CustomerOrders\\CustomerOrders.API.csproj|c:\\users\\ealeakhue\\desktop\\customerorders\\customerorders\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99034B82-E962-4C26-A274-E4BE45B5BBF1}|CustomerOrders\\CustomerOrders.API.csproj|solutionrelative:customerorders\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{99034B82-E962-4C26-A274-E4BE45B5BBF1}|CustomerOrders\\CustomerOrders.API.csproj|c:\\users\\ealeakhue\\desktop\\customerorders\\customerorders\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99034B82-E962-4C26-A274-E4BE45B5BBF1}|CustomerOrders\\CustomerOrders.API.csproj|solutionrelative:customerorders\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CD20839-DFBA-410D-92A4-E13EF7F944C2}|CustomerOrders.Application\\CustomerOrders.Application.csproj|c:\\users\\ealeakhue\\desktop\\customerorders\\customerorders.application\\commands\\products\\createproducts\\updateproductcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CD20839-DFBA-410D-92A4-E13EF7F944C2}|CustomerOrders.Application\\CustomerOrders.Application.csproj|solutionrelative:customerorders.application\\commands\\products\\createproducts\\updateproductcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2CD20839-DFBA-410D-92A4-E13EF7F944C2}|CustomerOrders.Application\\CustomerOrders.Application.csproj|c:\\users\\ealeakhue\\desktop\\customerorders\\customerorders.application\\commands\\products\\deleteproducts\\deleteproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CD20839-DFBA-410D-92A4-E13EF7F944C2}|CustomerOrders.Application\\CustomerOrders.Application.csproj|solutionrelative:customerorders.application\\commands\\products\\deleteproducts\\deleteproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CD20839-DFBA-410D-92A4-E13EF7F944C2}|CustomerOrders.Application\\CustomerOrders.Application.csproj|c:\\users\\ealeakhue\\desktop\\customerorders\\customerorders.application\\commands\\products\\createproducts\\createproductvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CD20839-DFBA-410D-92A4-E13EF7F944C2}|CustomerOrders.Application\\CustomerOrders.Application.csproj|solutionrelative:customerorders.application\\commands\\products\\createproducts\\createproductvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2CD20839-DFBA-410D-92A4-E13EF7F944C2}|CustomerOrders.Application\\CustomerOrders.Application.csproj|c:\\users\\ealeakhue\\desktop\\customerorders\\customerorders.application\\commands\\customers\\createcustomers\\createcustomercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CD20839-DFBA-410D-92A4-E13EF7F944C2}|CustomerOrders.Application\\CustomerOrders.Application.csproj|solutionrelative:customerorders.application\\commands\\customers\\createcustomers\\createcustomercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CD20839-DFBA-410D-92A4-E13EF7F944C2}|CustomerOrders.Application\\CustomerOrders.Application.csproj|c:\\users\\ealeakhue\\desktop\\customerorders\\customerorders.application\\commands\\products\\updateproducts\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CD20839-DFBA-410D-92A4-E13EF7F944C2}|CustomerOrders.Application\\CustomerOrders.Application.csproj|solutionrelative:customerorders.application\\commands\\products\\updateproducts\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2CD20839-DFBA-410D-92A4-E13EF7F944C2}|CustomerOrders.Application\\CustomerOrders.Application.csproj|c:\\users\\ealeakhue\\desktop\\customerorders\\customerorders.application\\commands\\customers\\createcustomers\\createcustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -251,20 +263,12 @@
       "RelativeMoniker": "D:0:0:{2CD20839-DFBA-410D-92A4-E13EF7F944C2}|CustomerOrders.Application\\CustomerOrders.Application.csproj|solutionrelative:customerorders.application\\queries\\orders\\getorderqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99034B82-E962-4C26-A274-E4BE45B5BBF1}|CustomerOrders\\CustomerOrders.API.csproj|c:\\users\\ealeakhue\\desktop\\customerorders\\customerorders\\abstractions\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99034B82-E962-4C26-A274-E4BE45B5BBF1}|CustomerOrders\\CustomerOrders.API.csproj|solutionrelative:customerorders\\abstractions\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{99034B82-E962-4C26-A274-E4BE45B5BBF1}|CustomerOrders\\CustomerOrders.API.csproj|c:\\users\\ealeakhue\\desktop\\customerorders\\customerorders\\customerorders.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{99034B82-E962-4C26-A274-E4BE45B5BBF1}|CustomerOrders\\CustomerOrders.API.csproj|solutionrelative:customerorders\\customerorders.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2CD20839-DFBA-410D-92A4-E13EF7F944C2}|CustomerOrders.Application\\CustomerOrders.Application.csproj|c:\\users\\ealeakhue\\desktop\\customerorders\\customerorders.application\\queries\\orders\\getordersbydatequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CD20839-DFBA-410D-92A4-E13EF7F944C2}|CustomerOrders.Application\\CustomerOrders.Application.csproj|solutionrelative:customerorders.application\\queries\\orders\\getordersbydatequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99034B82-E962-4C26-A274-E4BE45B5BBF1}|CustomerOrders\\CustomerOrders.API.csproj|c:\\users\\ealeakhue\\desktop\\customerorders\\customerorders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99034B82-E962-4C26-A274-E4BE45B5BBF1}|CustomerOrders\\CustomerOrders.API.csproj|solutionrelative:customerorders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2CD20839-DFBA-410D-92A4-E13EF7F944C2}|CustomerOrders.Application\\CustomerOrders.Application.csproj|c:\\users\\ealeakhue\\desktop\\customerorders\\customerorders.application\\queries\\products\\getproductqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -397,6 +401,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{6E4C1CAE-FF10-4AAE-9EDC-53D5A4DB3443}|CustomerOrders.Domain\\CustomerOrders.Domain.csproj|c:\\users\\ealeakhue\\desktop\\customerorders\\customerorders.domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E4C1CAE-FF10-4AAE-9EDC-53D5A4DB3443}|CustomerOrders.Domain\\CustomerOrders.Domain.csproj|solutionrelative:customerorders.domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4061200-1627-408E-BA41-86591F67F1B1}|CustomerOrders.Infrastructure\\CustomerOrders.Infrastructure.csproj|c:\\users\\ealeakhue\\desktop\\customerorders\\customerorders.infrastructure\\migrations\\20240906074018_createtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4061200-1627-408E-BA41-86591F67F1B1}|CustomerOrders.Infrastructure\\CustomerOrders.Infrastructure.csproj|solutionrelative:customerorders.infrastructure\\migrations\\20240906074018_createtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -406,765 +414,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "OrderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Infrastructure\\Data\\Repositories\\OrderRepository.cs",
-              "RelativeDocumentMoniker": "CustomerOrders.Infrastructure\\Data\\Repositories\\OrderRepository.cs",
-              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Infrastructure\\Data\\Repositories\\OrderRepository.cs",
-              "RelativeToolTip": "CustomerOrders.Infrastructure\\Data\\Repositories\\OrderRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T06:55:10.706Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ExceptionMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\Middleware\\ExceptionMiddleware.cs",
-              "RelativeDocumentMoniker": "CustomerOrders\\Middleware\\ExceptionMiddleware.cs",
-              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\Middleware\\ExceptionMiddleware.cs",
-              "RelativeToolTip": "CustomerOrders\\Middleware\\ExceptionMiddleware.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T16:39:39.16Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CreateOrderCommandHandlerTests.cs",
-              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Tests\\CommandhandlerTests\\OrderTests\\CreateOrderCommandHandlerTests.cs",
-              "RelativeDocumentMoniker": "CustomerOrders.Tests\\CommandhandlerTests\\OrderTests\\CreateOrderCommandHandlerTests.cs",
-              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Tests\\CommandhandlerTests\\OrderTests\\CreateOrderCommandHandlerTests.cs",
-              "RelativeToolTip": "CustomerOrders.Tests\\CommandhandlerTests\\OrderTests\\CreateOrderCommandHandlerTests.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAmwB8AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T18:38:10.661Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CreateProductCommandHandlerTests.cs",
-              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Tests\\CommandhandlerTests\\ProductTests\\CreateProductCommandHandlerTests.cs",
-              "RelativeDocumentMoniker": "CustomerOrders.Tests\\CommandhandlerTests\\ProductTests\\CreateProductCommandHandlerTests.cs",
-              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Tests\\CommandhandlerTests\\ProductTests\\CreateProductCommandHandlerTests.cs",
-              "RelativeToolTip": "CustomerOrders.Tests\\CommandhandlerTests\\ProductTests\\CreateProductCommandHandlerTests.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T18:44:23.782Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\appsettings.json",
-              "RelativeDocumentMoniker": "CustomerOrders\\appsettings.json",
-              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\appsettings.json",
-              "RelativeToolTip": "CustomerOrders\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-03T06:44:20.484Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CreateProductDTO.cs",
-              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\DTOs\\CreateProductDTO.cs",
-              "RelativeDocumentMoniker": "CustomerOrders\\DTOs\\CreateProductDTO.cs",
-              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\DTOs\\CreateProductDTO.cs",
-              "RelativeToolTip": "CustomerOrders\\DTOs\\CreateProductDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T12:40:21.362Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ProductDTO.cs",
-              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\DTOs\\ProductDTO.cs",
-              "RelativeDocumentMoniker": "CustomerOrders\\DTOs\\ProductDTO.cs",
-              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\DTOs\\ProductDTO.cs",
-              "RelativeToolTip": "CustomerOrders\\DTOs\\ProductDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.IntegrationTests\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "CustomerOrders.IntegrationTests\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.IntegrationTests\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "CustomerOrders.IntegrationTests\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T10:17:10.767Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "OrderDTO.cs",
-              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\DTOs\\OrderDTO.cs",
-              "RelativeDocumentMoniker": "CustomerOrders\\DTOs\\OrderDTO.cs",
-              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\DTOs\\OrderDTO.cs",
-              "RelativeToolTip": "CustomerOrders\\DTOs\\OrderDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T10:26:19.186Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "GetOrdersByDateQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Queries\\Orders\\GetOrdersByDateQueryHandler.cs",
-              "RelativeDocumentMoniker": "CustomerOrders.Application\\Queries\\Orders\\GetOrdersByDateQueryHandler.cs",
-              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Queries\\Orders\\GetOrdersByDateQueryHandler.cs",
-              "RelativeToolTip": "CustomerOrders.Application\\Queries\\Orders\\GetOrdersByDateQueryHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T08:20:37.217Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "20240906074018_createtables.cs",
-              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Infrastructure\\Migrations\\20240906074018_createtables.cs",
-              "RelativeDocumentMoniker": "CustomerOrders.Infrastructure\\Migrations\\20240906074018_createtables.cs",
-              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Infrastructure\\Migrations\\20240906074018_createtables.cs",
-              "RelativeToolTip": "CustomerOrders.Infrastructure\\Migrations\\20240906074018_createtables.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T07:40:19.101Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\Controllers\\OrderController.cs",
-              "RelativeDocumentMoniker": "CustomerOrders\\Controllers\\OrderController.cs",
-              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\Controllers\\OrderController.cs",
-              "RelativeToolTip": "CustomerOrders\\Controllers\\OrderController.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAQwCYAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T05:59:53.898Z",
+              "WhenOpened": "2024-09-06T10:55:04.48Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "CreateProductCommandHandlers.cs",
-              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Products\\CreateProducts\\CreateProductCommandHandlers.cs",
-              "RelativeDocumentMoniker": "CustomerOrders.Application\\Commands\\Products\\CreateProducts\\CreateProductCommandHandlers.cs",
-              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Products\\CreateProducts\\CreateProductCommandHandlers.cs",
-              "RelativeToolTip": "CustomerOrders.Application\\Commands\\Products\\CreateProducts\\CreateProductCommandHandlers.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBkAAAB0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T07:52:48.739Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Price.cs",
-              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Domain\\Domain\\ValueObjects\\Price.cs",
-              "RelativeDocumentMoniker": "CustomerOrders.Domain\\Domain\\ValueObjects\\Price.cs",
-              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Domain\\Domain\\ValueObjects\\Price.cs",
-              "RelativeToolTip": "CustomerOrders.Domain\\Domain\\ValueObjects\\Price.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T22:41:35.903Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CreateOrderCommandHandlers.cs",
-              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Orders\\CreateOrders\\CreateOrderCommandHandlers.cs",
-              "RelativeDocumentMoniker": "CustomerOrders.Application\\Commands\\Orders\\CreateOrders\\CreateOrderCommandHandlers.cs",
-              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Orders\\CreateOrders\\CreateOrderCommandHandlers.cs",
-              "RelativeToolTip": "CustomerOrders.Application\\Commands\\Orders\\CreateOrders\\CreateOrderCommandHandlers.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAByAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T07:41:47.726Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CreateOrderCommand.cs",
-              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Orders\\CreateOrders\\CreateOrderCommand.cs",
-              "RelativeDocumentMoniker": "CustomerOrders.Application\\Commands\\Orders\\CreateOrders\\CreateOrderCommand.cs",
-              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Orders\\CreateOrders\\CreateOrderCommand.cs",
-              "RelativeToolTip": "CustomerOrders.Application\\Commands\\Orders\\CreateOrders\\CreateOrderCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T07:41:19.626Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "CreateOrderDTO.cs",
-              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\DTOs\\CreateOrderDTO.cs",
-              "RelativeDocumentMoniker": "CustomerOrders\\DTOs\\CreateOrderDTO.cs",
-              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\DTOs\\CreateOrderDTO.cs",
-              "RelativeToolTip": "CustomerOrders\\DTOs\\CreateOrderDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T09:25:32.846Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "CreateProductCommand.cs",
-              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Products\\CreateProducts\\CreateProductCommand.cs",
-              "RelativeDocumentMoniker": "CustomerOrders.Application\\Commands\\Products\\CreateProducts\\CreateProductCommand.cs",
-              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Products\\CreateProducts\\CreateProductCommand.cs",
-              "RelativeToolTip": "CustomerOrders.Application\\Commands\\Products\\CreateProducts\\CreateProductCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T07:52:35.812Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "UserProfile.cs",
-              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\Mapping\\UserProfile.cs",
-              "RelativeDocumentMoniker": "CustomerOrders\\Mapping\\UserProfile.cs",
-              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\Mapping\\UserProfile.cs",
-              "RelativeToolTip": "CustomerOrders\\Mapping\\UserProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T12:39:29.284Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "UpdateProductDTO.cs",
-              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\DTOs\\UpdateProductDTO.cs",
-              "RelativeDocumentMoniker": "CustomerOrders\\DTOs\\UpdateProductDTO.cs",
-              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\DTOs\\UpdateProductDTO.cs",
-              "RelativeToolTip": "CustomerOrders\\DTOs\\UpdateProductDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T06:54:07.02Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Domain\\Domain\\Order.cs",
-              "RelativeDocumentMoniker": "CustomerOrders.Domain\\Domain\\Order.cs",
-              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Domain\\Domain\\Order.cs",
-              "RelativeToolTip": "CustomerOrders.Domain\\Domain\\Order.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T19:53:12.008Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ItemDTO.cs",
-              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\DTOs\\ItemDTO.cs",
-              "RelativeDocumentMoniker": "CustomerOrders\\DTOs\\ItemDTO.cs",
-              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\DTOs\\ItemDTO.cs",
-              "RelativeToolTip": "CustomerOrders\\DTOs\\ItemDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T18:28:51.425Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "UpdateCustomerDTO.cs",
-              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\DTOs\\UpdateCustomerDTO.cs",
-              "RelativeDocumentMoniker": "CustomerOrders\\DTOs\\UpdateCustomerDTO.cs",
-              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\DTOs\\UpdateCustomerDTO.cs",
-              "RelativeToolTip": "CustomerOrders\\DTOs\\UpdateCustomerDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T06:54:04.911Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "UpdateProductCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Products\\UpdateProducts\\UpdateProductCommandHandler.cs",
-              "RelativeDocumentMoniker": "CustomerOrders.Application\\Commands\\Products\\UpdateProducts\\UpdateProductCommandHandler.cs",
-              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Products\\UpdateProducts\\UpdateProductCommandHandler.cs",
-              "RelativeToolTip": "CustomerOrders.Application\\Commands\\Products\\UpdateProducts\\UpdateProductCommandHandler.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAArwCQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T07:56:57.596Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "CustomerDTO.cs",
-              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\DTOs\\CustomerDTO.cs",
-              "RelativeDocumentMoniker": "CustomerOrders\\DTOs\\CustomerDTO.cs",
-              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\DTOs\\CustomerDTO.cs",
-              "RelativeToolTip": "CustomerOrders\\DTOs\\CustomerDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T18:28:47.282Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "DeleteProductCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Products\\DeleteProducts\\DeleteProductCommandHandler.cs",
-              "RelativeDocumentMoniker": "CustomerOrders.Application\\Commands\\Products\\DeleteProducts\\DeleteProductCommandHandler.cs",
-              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Products\\DeleteProducts\\DeleteProductCommandHandler.cs",
-              "RelativeToolTip": "CustomerOrders.Application\\Commands\\Products\\DeleteProducts\\DeleteProductCommandHandler.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAArwBoAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T07:55:13.366Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "DeleteOrderCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Orders\\DeleteOrders\\DeleteOrderCommandHandler.cs",
-              "RelativeDocumentMoniker": "CustomerOrders.Application\\Commands\\Orders\\DeleteOrders\\DeleteOrderCommandHandler.cs",
-              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Orders\\DeleteOrders\\DeleteOrderCommandHandler.cs",
-              "RelativeToolTip": "CustomerOrders.Application\\Commands\\Orders\\DeleteOrders\\DeleteOrderCommandHandler.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAjwCQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T07:44:08.399Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "UpdateOrdersCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Orders\\UpdateOrders\\UpdateOrdersCommandHandler.cs",
-              "RelativeDocumentMoniker": "CustomerOrders.Application\\Commands\\Orders\\UpdateOrders\\UpdateOrdersCommandHandler.cs",
-              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Orders\\UpdateOrders\\UpdateOrdersCommandHandler.cs",
-              "RelativeToolTip": "CustomerOrders.Application\\Commands\\Orders\\UpdateOrders\\UpdateOrdersCommandHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T06:18:57.087Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "UpdateCustomerCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Customers\\UpdateCustomers\\UpdateCustomerCommandHandler.cs",
-              "RelativeDocumentMoniker": "CustomerOrders.Application\\Commands\\Customers\\UpdateCustomers\\UpdateCustomerCommandHandler.cs",
-              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Customers\\UpdateCustomers\\UpdateCustomerCommandHandler.cs",
-              "RelativeToolTip": "CustomerOrders.Application\\Commands\\Customers\\UpdateCustomers\\UpdateCustomerCommandHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T07:33:38.261Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "DeleteCustomerCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Customers\\DeleteCustomers\\DeleteCustomerCommandHandler.cs",
-              "RelativeDocumentMoniker": "CustomerOrders.Application\\Commands\\Customers\\DeleteCustomers\\DeleteCustomerCommandHandler.cs",
-              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Customers\\DeleteCustomers\\DeleteCustomerCommandHandler.cs",
-              "RelativeToolTip": "CustomerOrders.Application\\Commands\\Customers\\DeleteCustomers\\DeleteCustomerCommandHandler.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAArwBoAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T07:37:04.979Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "UpdateOrdersCommand.cs",
-              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Orders\\UpdateOrders\\UpdateOrdersCommand.cs",
-              "RelativeDocumentMoniker": "CustomerOrders.Application\\Commands\\Orders\\UpdateOrders\\UpdateOrdersCommand.cs",
-              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Orders\\UpdateOrders\\UpdateOrdersCommand.cs",
-              "RelativeToolTip": "CustomerOrders.Application\\Commands\\Orders\\UpdateOrders\\UpdateOrdersCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T06:18:30.237Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "UpdateOrdersCommandValidator.cs",
-              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Orders\\UpdateOrders\\UpdateOrdersCommandValidator.cs",
-              "RelativeDocumentMoniker": "CustomerOrders.Application\\Commands\\Orders\\UpdateOrders\\UpdateOrdersCommandValidator.cs",
-              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Orders\\UpdateOrders\\UpdateOrdersCommandValidator.cs",
-              "RelativeToolTip": "CustomerOrders.Application\\Commands\\Orders\\UpdateOrders\\UpdateOrdersCommandValidator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T06:19:43.705Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "CreateOrderCommandValidator.cs",
-              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Orders\\CreateOrders\\CreateOrderCommandValidator.cs",
-              "RelativeDocumentMoniker": "CustomerOrders.Application\\Commands\\Orders\\CreateOrders\\CreateOrderCommandValidator.cs",
-              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Orders\\CreateOrders\\CreateOrderCommandValidator.cs",
-              "RelativeToolTip": "CustomerOrders.Application\\Commands\\Orders\\CreateOrders\\CreateOrderCommandValidator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T10:21:02.407Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "UpdateProductCommandValidator.cs",
-              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Products\\UpdateProducts\\UpdateProductCommandValidator.cs",
-              "RelativeDocumentMoniker": "CustomerOrders.Application\\Commands\\Products\\UpdateProducts\\UpdateProductCommandValidator.cs",
-              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Products\\UpdateProducts\\UpdateProductCommandValidator.cs",
-              "RelativeToolTip": "CustomerOrders.Application\\Commands\\Products\\UpdateProducts\\UpdateProductCommandValidator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T06:17:37.888Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Domain\\Domain\\Product.cs",
-              "RelativeDocumentMoniker": "CustomerOrders.Domain\\Domain\\Product.cs",
-              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Domain\\Domain\\Product.cs",
-              "RelativeToolTip": "CustomerOrders.Domain\\Domain\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBsAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T19:53:24.834Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "Item.cs",
-              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Domain\\Domain\\Item.cs",
-              "RelativeDocumentMoniker": "CustomerOrders.Domain\\Domain\\Item.cs",
-              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Domain\\Domain\\Item.cs",
-              "RelativeToolTip": "CustomerOrders.Domain\\Domain\\Item.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T19:52:48.378Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "UpdateCustomerCommand.cs",
-              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Customers\\UpdateCustomers\\UpdateCustomerCommand.cs",
-              "RelativeDocumentMoniker": "CustomerOrders.Application\\Commands\\Customers\\UpdateCustomers\\UpdateCustomerCommand.cs",
-              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Customers\\UpdateCustomers\\UpdateCustomerCommand.cs",
-              "RelativeToolTip": "CustomerOrders.Application\\Commands\\Customers\\UpdateCustomers\\UpdateCustomerCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T07:33:26.33Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "UpdateCustomerCommandValidator.cs",
-              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Customers\\UpdateCustomers\\UpdateCustomerCommandValidator.cs",
-              "RelativeDocumentMoniker": "CustomerOrders.Application\\Commands\\Customers\\UpdateCustomers\\UpdateCustomerCommandValidator.cs",
-              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Customers\\UpdateCustomers\\UpdateCustomerCommandValidator.cs",
-              "RelativeToolTip": "CustomerOrders.Application\\Commands\\Customers\\UpdateCustomers\\UpdateCustomerCommandValidator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T18:17:27.397Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Domain\\Domain\\Customer.cs",
-              "RelativeDocumentMoniker": "CustomerOrders.Domain\\Domain\\Customer.cs",
-              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Domain\\Domain\\Customer.cs",
-              "RelativeToolTip": "CustomerOrders.Domain\\Domain\\Customer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T19:52:13.591Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "DeleteCustomerCommand.cs",
-              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Customers\\DeleteCustomers\\DeleteCustomerCommand.cs",
-              "RelativeDocumentMoniker": "CustomerOrders.Application\\Commands\\Customers\\DeleteCustomers\\DeleteCustomerCommand.cs",
-              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Customers\\DeleteCustomers\\DeleteCustomerCommand.cs",
-              "RelativeToolTip": "CustomerOrders.Application\\Commands\\Customers\\DeleteCustomers\\DeleteCustomerCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T07:37:02.399Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "Entity.cs",
-              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Domain\\Domain\\Entity.cs",
-              "RelativeDocumentMoniker": "CustomerOrders.Domain\\Domain\\Entity.cs",
-              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Domain\\Domain\\Entity.cs",
-              "RelativeToolTip": "CustomerOrders.Domain\\Domain\\Entity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T19:51:30.387Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "GetOrderCommandHandlerTests.cs",
-              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Tests\\CommandhandlerTests\\OrderTests\\GetOrderCommandHandlerTests.cs",
-              "RelativeDocumentMoniker": "CustomerOrders.Tests\\CommandhandlerTests\\OrderTests\\GetOrderCommandHandlerTests.cs",
-              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Tests\\CommandhandlerTests\\OrderTests\\GetOrderCommandHandlerTests.cs",
-              "RelativeToolTip": "CustomerOrders.Tests\\CommandhandlerTests\\OrderTests\\GetOrderCommandHandlerTests.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAADIAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T18:43:47.522Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "UpdateProductCommandHandlerTests.cs",
-              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Tests\\CommandhandlerTests\\ProductTests\\UpdateProductCommandHandlerTests.cs",
-              "RelativeDocumentMoniker": "CustomerOrders.Tests\\CommandhandlerTests\\ProductTests\\UpdateProductCommandHandlerTests.cs",
-              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Tests\\CommandhandlerTests\\ProductTests\\UpdateProductCommandHandlerTests.cs",
-              "RelativeToolTip": "CustomerOrders.Tests\\CommandhandlerTests\\ProductTests\\UpdateProductCommandHandlerTests.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T18:45:27.908Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "GetProductCommandHandlerTests.cs",
-              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Tests\\CommandhandlerTests\\ProductTests\\GetProductCommandHandlerTests.cs",
-              "RelativeDocumentMoniker": "CustomerOrders.Tests\\CommandhandlerTests\\ProductTests\\GetProductCommandHandlerTests.cs",
-              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Tests\\CommandhandlerTests\\ProductTests\\GetProductCommandHandlerTests.cs",
-              "RelativeToolTip": "CustomerOrders.Tests\\CommandhandlerTests\\ProductTests\\GetProductCommandHandlerTests.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAB9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T18:45:08.861Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "GetAllProductCommandHandlerTests.cs",
-              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Tests\\CommandhandlerTests\\ProductTests\\GetAllProductCommandHandlerTests.cs",
-              "RelativeDocumentMoniker": "CustomerOrders.Tests\\CommandhandlerTests\\ProductTests\\GetAllProductCommandHandlerTests.cs",
-              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Tests\\CommandhandlerTests\\ProductTests\\GetAllProductCommandHandlerTests.cs",
-              "RelativeToolTip": "CustomerOrders.Tests\\CommandhandlerTests\\ProductTests\\GetAllProductCommandHandlerTests.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAABqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T18:44:52.141Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "UpdateCustomerCommandHandlerTests.cs",
-              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Tests\\CommandhandlerTests\\CustomerTests\\UpdateCustomerCommandHandlerTests.cs",
-              "RelativeDocumentMoniker": "CustomerOrders.Tests\\CommandhandlerTests\\CustomerTests\\UpdateCustomerCommandHandlerTests.cs",
-              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Tests\\CommandhandlerTests\\CustomerTests\\UpdateCustomerCommandHandlerTests.cs",
-              "RelativeToolTip": "CustomerOrders.Tests\\CommandhandlerTests\\CustomerTests\\UpdateCustomerCommandHandlerTests.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T18:37:37.372Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "GetCustomerCommandHandlerTests.cs",
-              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Tests\\CommandhandlerTests\\CustomerTests\\GetCustomerCommandHandlerTests.cs",
-              "RelativeDocumentMoniker": "CustomerOrders.Tests\\CommandhandlerTests\\CustomerTests\\GetCustomerCommandHandlerTests.cs",
-              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Tests\\CommandhandlerTests\\CustomerTests\\GetCustomerCommandHandlerTests.cs",
-              "RelativeToolTip": "CustomerOrders.Tests\\CommandhandlerTests\\CustomerTests\\GetCustomerCommandHandlerTests.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T18:36:58.724Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "GetAllCustomerCommandHandlerTests.cs",
-              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Tests\\CommandhandlerTests\\CustomerTests\\GetAllCustomerCommandHandlerTests.cs",
-              "RelativeDocumentMoniker": "CustomerOrders.Tests\\CommandhandlerTests\\CustomerTests\\GetAllCustomerCommandHandlerTests.cs",
-              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Tests\\CommandhandlerTests\\CustomerTests\\GetAllCustomerCommandHandlerTests.cs",
-              "RelativeToolTip": "CustomerOrders.Tests\\CommandhandlerTests\\CustomerTests\\GetAllCustomerCommandHandlerTests.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAB9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T18:36:22.819Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "CreateCustomerCommandHandlers.cs",
-              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Customers\\CreateCustomers\\CreateCustomerCommandHandlers.cs",
-              "RelativeDocumentMoniker": "CustomerOrders.Application\\Commands\\Customers\\CreateCustomers\\CreateCustomerCommandHandlers.cs",
-              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Customers\\CreateCustomers\\CreateCustomerCommandHandlers.cs",
-              "RelativeToolTip": "CustomerOrders.Application\\Commands\\Customers\\CreateCustomers\\CreateCustomerCommandHandlers.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAACmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T07:18:15.715Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "CreateCustomerCommandHandlerTests.cs",
-              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Tests\\CommandhandlerTests\\CustomerTests\\CreateCustomerCommandHandlerTests.cs",
-              "RelativeDocumentMoniker": "CustomerOrders.Tests\\CommandhandlerTests\\CustomerTests\\CreateCustomerCommandHandlerTests.cs",
-              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Tests\\CommandhandlerTests\\CustomerTests\\CreateCustomerCommandHandlerTests.cs",
-              "RelativeToolTip": "CustomerOrders.Tests\\CommandhandlerTests\\CustomerTests\\CreateCustomerCommandHandlerTests.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T18:35:33.912Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "CreateCustomerDTO.cs",
-              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\DTOs\\CreateCustomerDTO.cs",
-              "RelativeDocumentMoniker": "CustomerOrders\\DTOs\\CreateCustomerDTO.cs",
-              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\DTOs\\CreateCustomerDTO.cs",
-              "RelativeToolTip": "CustomerOrders\\DTOs\\CreateCustomerDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T18:26:13.453Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "UpdateProductCommandValidator.cs",
-              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Products\\CreateProducts\\UpdateProductCommandValidator.cs",
-              "RelativeDocumentMoniker": "CustomerOrders.Application\\Commands\\Products\\CreateProducts\\UpdateProductCommandValidator.cs",
-              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Products\\CreateProducts\\UpdateProductCommandValidator.cs",
-              "RelativeToolTip": "CustomerOrders.Application\\Commands\\Products\\CreateProducts\\UpdateProductCommandValidator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T18:19:40.759Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "CustomerController.cs",
-              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\Controllers\\CustomerController.cs",
-              "RelativeDocumentMoniker": "CustomerOrders\\Controllers\\CustomerController.cs",
-              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\Controllers\\CustomerController.cs",
-              "RelativeToolTip": "CustomerOrders\\Controllers\\CustomerController.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAIwEMAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T22:20:42.368Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "CustomerOrders\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "CustomerOrders\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAYwFkAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T12:38:32.981Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 56,
               "Title": "CreateProductValidator.cs",
               "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Products\\CreateProducts\\CreateProductValidator.cs",
               "RelativeDocumentMoniker": "CustomerOrders.Application\\Commands\\Products\\CreateProducts\\CreateProductValidator.cs",
               "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Products\\CreateProducts\\CreateProductValidator.cs",
               "RelativeToolTip": "CustomerOrders.Application\\Commands\\Products\\CreateProducts\\CreateProductValidator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-05T10:22:13.623Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Infrastructure\\Data\\Configurations\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "CustomerOrders.Infrastructure\\Data\\Configurations\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Infrastructure\\Data\\Configurations\\AppDbContext.cs",
-              "RelativeToolTip": "CustomerOrders.Infrastructure\\Data\\Configurations\\AppDbContext.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAkwBsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T06:28:21.33Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Infrastructure\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "CustomerOrders.Infrastructure\\UnitOfWork.cs",
-              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Infrastructure\\UnitOfWork.cs",
-              "RelativeToolTip": "CustomerOrders.Infrastructure\\UnitOfWork.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAQwC4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T07:06:28.514Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 59,
-              "Title": "CreateCustomerCommand.cs",
-              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Customers\\CreateCustomers\\CreateCustomerCommand.cs",
-              "RelativeDocumentMoniker": "CustomerOrders.Application\\Commands\\Customers\\CreateCustomers\\CreateCustomerCommand.cs",
-              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Customers\\CreateCustomers\\CreateCustomerCommand.cs",
-              "RelativeToolTip": "CustomerOrders.Application\\Commands\\Customers\\CreateCustomers\\CreateCustomerCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T07:18:03.964Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 55,
-              "Title": "DeleteProductCommand.cs",
-              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Products\\DeleteProducts\\DeleteProductCommand.cs",
-              "RelativeDocumentMoniker": "CustomerOrders.Application\\Commands\\Products\\DeleteProducts\\DeleteProductCommand.cs",
-              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Products\\DeleteProducts\\DeleteProductCommand.cs",
-              "RelativeToolTip": "CustomerOrders.Application\\Commands\\Products\\DeleteProducts\\DeleteProductCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T07:55:10.171Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 8,
               "Title": "UpdateProductCommand.cs",
               "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Products\\UpdateProducts\\UpdateProductCommand.cs",
               "RelativeDocumentMoniker": "CustomerOrders.Application\\Commands\\Products\\UpdateProducts\\UpdateProductCommand.cs",
@@ -1177,7 +457,741 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Products\\UpdateProducts\\UpdateProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "CustomerOrders.Application\\Commands\\Products\\UpdateProducts\\UpdateProductCommandHandler.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Products\\UpdateProducts\\UpdateProductCommandHandler.cs",
+              "RelativeToolTip": "CustomerOrders.Application\\Commands\\Products\\UpdateProducts\\UpdateProductCommandHandler.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAArwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T07:56:57.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateProductCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Products\\UpdateProducts\\UpdateProductCommandValidator.cs",
+              "RelativeDocumentMoniker": "CustomerOrders.Application\\Commands\\Products\\UpdateProducts\\UpdateProductCommandValidator.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Products\\UpdateProducts\\UpdateProductCommandValidator.cs",
+              "RelativeToolTip": "CustomerOrders.Application\\Commands\\Products\\UpdateProducts\\UpdateProductCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T06:17:37.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\Program.cs",
+              "RelativeDocumentMoniker": "CustomerOrders\\Program.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\Program.cs",
+              "RelativeToolTip": "CustomerOrders\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAvwCoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T12:41:03.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Products\\CreateProducts\\CreateProductCommand.cs",
+              "RelativeDocumentMoniker": "CustomerOrders.Application\\Commands\\Products\\CreateProducts\\CreateProductCommand.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Products\\CreateProducts\\CreateProductCommand.cs",
+              "RelativeToolTip": "CustomerOrders.Application\\Commands\\Products\\CreateProducts\\CreateProductCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T07:52:35.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "CustomerOrders\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "CustomerOrders\\Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T16:39:39.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.IntegrationTests\\Controllers\\ProductControllerTest.cs",
+              "RelativeDocumentMoniker": "CustomerOrders.IntegrationTests\\Controllers\\ProductControllerTest.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.IntegrationTests\\Controllers\\ProductControllerTest.cs",
+              "RelativeToolTip": "CustomerOrders.IntegrationTests\\Controllers\\ProductControllerTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T10:55:28.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "CustomerOrders\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "CustomerOrders\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAswCsAAACDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T22:20:42.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApiController.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\Abstractions\\ApiController.cs",
+              "RelativeDocumentMoniker": "CustomerOrders\\Abstractions\\ApiController.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\Abstractions\\ApiController.cs",
+              "RelativeToolTip": "CustomerOrders\\Abstractions\\ApiController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T12:54:25.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateProductCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Products\\CreateProducts\\UpdateProductCommandValidator.cs",
+              "RelativeDocumentMoniker": "CustomerOrders.Application\\Commands\\Products\\CreateProducts\\UpdateProductCommandValidator.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Products\\CreateProducts\\UpdateProductCommandValidator.cs",
+              "RelativeToolTip": "CustomerOrders.Application\\Commands\\Products\\CreateProducts\\UpdateProductCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:19:40.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UpdateOrdersCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Orders\\UpdateOrders\\UpdateOrdersCommandValidator.cs",
+              "RelativeDocumentMoniker": "CustomerOrders.Application\\Commands\\Orders\\UpdateOrders\\UpdateOrdersCommandValidator.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Orders\\UpdateOrders\\UpdateOrdersCommandValidator.cs",
+              "RelativeToolTip": "CustomerOrders.Application\\Commands\\Orders\\UpdateOrders\\UpdateOrdersCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T06:19:43.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateCustomerCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Customers\\UpdateCustomers\\UpdateCustomerCommand.cs",
+              "RelativeDocumentMoniker": "CustomerOrders.Application\\Commands\\Customers\\UpdateCustomers\\UpdateCustomerCommand.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Customers\\UpdateCustomers\\UpdateCustomerCommand.cs",
+              "RelativeToolTip": "CustomerOrders.Application\\Commands\\Customers\\UpdateCustomers\\UpdateCustomerCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T07:33:26.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UpdateOrdersCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Orders\\UpdateOrders\\UpdateOrdersCommand.cs",
+              "RelativeDocumentMoniker": "CustomerOrders.Application\\Commands\\Orders\\UpdateOrders\\UpdateOrdersCommand.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Orders\\UpdateOrders\\UpdateOrdersCommand.cs",
+              "RelativeToolTip": "CustomerOrders.Application\\Commands\\Orders\\UpdateOrders\\UpdateOrdersCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T06:18:30.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UpdateCustomerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\DTOs\\UpdateCustomerDTO.cs",
+              "RelativeDocumentMoniker": "CustomerOrders\\DTOs\\UpdateCustomerDTO.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\DTOs\\UpdateCustomerDTO.cs",
+              "RelativeToolTip": "CustomerOrders\\DTOs\\UpdateCustomerDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T06:54:04.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\DTOs\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "CustomerOrders\\DTOs\\OrderDTO.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\DTOs\\OrderDTO.cs",
+              "RelativeToolTip": "CustomerOrders\\DTOs\\OrderDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T10:26:19.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\DTOs\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "CustomerOrders\\DTOs\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\DTOs\\ProductDTO.cs",
+              "RelativeToolTip": "CustomerOrders\\DTOs\\ProductDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T10:17:10.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreateProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\DTOs\\CreateProductDTO.cs",
+              "RelativeDocumentMoniker": "CustomerOrders\\DTOs\\CreateProductDTO.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\DTOs\\CreateProductDTO.cs",
+              "RelativeToolTip": "CustomerOrders\\DTOs\\CreateProductDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T12:40:21.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Infrastructure\\Data\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "CustomerOrders.Infrastructure\\Data\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Infrastructure\\Data\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "CustomerOrders.Infrastructure\\Data\\Repositories\\OrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T06:55:10.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\appsettings.json",
+              "RelativeDocumentMoniker": "CustomerOrders\\appsettings.json",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\appsettings.json",
+              "RelativeToolTip": "CustomerOrders\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-03T06:44:20.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CreateProductCommandHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Tests\\CommandhandlerTests\\ProductTests\\CreateProductCommandHandlerTests.cs",
+              "RelativeDocumentMoniker": "CustomerOrders.Tests\\CommandhandlerTests\\ProductTests\\CreateProductCommandHandlerTests.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Tests\\CommandhandlerTests\\ProductTests\\CreateProductCommandHandlerTests.cs",
+              "RelativeToolTip": "CustomerOrders.Tests\\CommandhandlerTests\\ProductTests\\CreateProductCommandHandlerTests.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:44:23.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CreateOrderCommandHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Tests\\CommandhandlerTests\\OrderTests\\CreateOrderCommandHandlerTests.cs",
+              "RelativeDocumentMoniker": "CustomerOrders.Tests\\CommandhandlerTests\\OrderTests\\CreateOrderCommandHandlerTests.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Tests\\CommandhandlerTests\\OrderTests\\CreateOrderCommandHandlerTests.cs",
+              "RelativeToolTip": "CustomerOrders.Tests\\CommandhandlerTests\\OrderTests\\CreateOrderCommandHandlerTests.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAmwB8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:38:10.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GetOrdersByDateQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Queries\\Orders\\GetOrdersByDateQueryHandler.cs",
+              "RelativeDocumentMoniker": "CustomerOrders.Application\\Queries\\Orders\\GetOrdersByDateQueryHandler.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Queries\\Orders\\GetOrdersByDateQueryHandler.cs",
+              "RelativeToolTip": "CustomerOrders.Application\\Queries\\Orders\\GetOrdersByDateQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T08:20:37.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "20240906074018_createtables.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Infrastructure\\Migrations\\20240906074018_createtables.cs",
+              "RelativeDocumentMoniker": "CustomerOrders.Infrastructure\\Migrations\\20240906074018_createtables.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Infrastructure\\Migrations\\20240906074018_createtables.cs",
+              "RelativeToolTip": "CustomerOrders.Infrastructure\\Migrations\\20240906074018_createtables.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T07:40:19.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "CustomerOrders\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "CustomerOrders\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwCYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T05:59:53.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CreateProductCommandHandlers.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Products\\CreateProducts\\CreateProductCommandHandlers.cs",
+              "RelativeDocumentMoniker": "CustomerOrders.Application\\Commands\\Products\\CreateProducts\\CreateProductCommandHandlers.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Products\\CreateProducts\\CreateProductCommandHandlers.cs",
+              "RelativeToolTip": "CustomerOrders.Application\\Commands\\Products\\CreateProducts\\CreateProductCommandHandlers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBkAAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T07:52:48.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Price.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Domain\\Domain\\ValueObjects\\Price.cs",
+              "RelativeDocumentMoniker": "CustomerOrders.Domain\\Domain\\ValueObjects\\Price.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Domain\\Domain\\ValueObjects\\Price.cs",
+              "RelativeToolTip": "CustomerOrders.Domain\\Domain\\ValueObjects\\Price.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T22:41:35.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CreateOrderCommandHandlers.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Orders\\CreateOrders\\CreateOrderCommandHandlers.cs",
+              "RelativeDocumentMoniker": "CustomerOrders.Application\\Commands\\Orders\\CreateOrders\\CreateOrderCommandHandlers.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Orders\\CreateOrders\\CreateOrderCommandHandlers.cs",
+              "RelativeToolTip": "CustomerOrders.Application\\Commands\\Orders\\CreateOrders\\CreateOrderCommandHandlers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T07:41:47.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CreateOrderCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Orders\\CreateOrders\\CreateOrderCommand.cs",
+              "RelativeDocumentMoniker": "CustomerOrders.Application\\Commands\\Orders\\CreateOrders\\CreateOrderCommand.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Orders\\CreateOrders\\CreateOrderCommand.cs",
+              "RelativeToolTip": "CustomerOrders.Application\\Commands\\Orders\\CreateOrders\\CreateOrderCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T07:41:19.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CreateOrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\DTOs\\CreateOrderDTO.cs",
+              "RelativeDocumentMoniker": "CustomerOrders\\DTOs\\CreateOrderDTO.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\DTOs\\CreateOrderDTO.cs",
+              "RelativeToolTip": "CustomerOrders\\DTOs\\CreateOrderDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T09:25:32.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\Mapping\\UserProfile.cs",
+              "RelativeDocumentMoniker": "CustomerOrders\\Mapping\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\Mapping\\UserProfile.cs",
+              "RelativeToolTip": "CustomerOrders\\Mapping\\UserProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T12:39:29.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UpdateProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\DTOs\\UpdateProductDTO.cs",
+              "RelativeDocumentMoniker": "CustomerOrders\\DTOs\\UpdateProductDTO.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\DTOs\\UpdateProductDTO.cs",
+              "RelativeToolTip": "CustomerOrders\\DTOs\\UpdateProductDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T06:54:07.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Domain\\Domain\\Order.cs",
+              "RelativeDocumentMoniker": "CustomerOrders.Domain\\Domain\\Order.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Domain\\Domain\\Order.cs",
+              "RelativeToolTip": "CustomerOrders.Domain\\Domain\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T19:53:12.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ItemDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\DTOs\\ItemDTO.cs",
+              "RelativeDocumentMoniker": "CustomerOrders\\DTOs\\ItemDTO.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\DTOs\\ItemDTO.cs",
+              "RelativeToolTip": "CustomerOrders\\DTOs\\ItemDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:28:51.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CustomerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\DTOs\\CustomerDTO.cs",
+              "RelativeDocumentMoniker": "CustomerOrders\\DTOs\\CustomerDTO.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\DTOs\\CustomerDTO.cs",
+              "RelativeToolTip": "CustomerOrders\\DTOs\\CustomerDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:28:47.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DeleteProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Products\\DeleteProducts\\DeleteProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "CustomerOrders.Application\\Commands\\Products\\DeleteProducts\\DeleteProductCommandHandler.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Products\\DeleteProducts\\DeleteProductCommandHandler.cs",
+              "RelativeToolTip": "CustomerOrders.Application\\Commands\\Products\\DeleteProducts\\DeleteProductCommandHandler.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAArwBoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T07:55:13.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DeleteOrderCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Orders\\DeleteOrders\\DeleteOrderCommandHandler.cs",
+              "RelativeDocumentMoniker": "CustomerOrders.Application\\Commands\\Orders\\DeleteOrders\\DeleteOrderCommandHandler.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Orders\\DeleteOrders\\DeleteOrderCommandHandler.cs",
+              "RelativeToolTip": "CustomerOrders.Application\\Commands\\Orders\\DeleteOrders\\DeleteOrderCommandHandler.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAjwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T07:44:08.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UpdateOrdersCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Orders\\UpdateOrders\\UpdateOrdersCommandHandler.cs",
+              "RelativeDocumentMoniker": "CustomerOrders.Application\\Commands\\Orders\\UpdateOrders\\UpdateOrdersCommandHandler.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Orders\\UpdateOrders\\UpdateOrdersCommandHandler.cs",
+              "RelativeToolTip": "CustomerOrders.Application\\Commands\\Orders\\UpdateOrders\\UpdateOrdersCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T06:18:57.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UpdateCustomerCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Customers\\UpdateCustomers\\UpdateCustomerCommandHandler.cs",
+              "RelativeDocumentMoniker": "CustomerOrders.Application\\Commands\\Customers\\UpdateCustomers\\UpdateCustomerCommandHandler.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Customers\\UpdateCustomers\\UpdateCustomerCommandHandler.cs",
+              "RelativeToolTip": "CustomerOrders.Application\\Commands\\Customers\\UpdateCustomers\\UpdateCustomerCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T07:33:38.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DeleteCustomerCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Customers\\DeleteCustomers\\DeleteCustomerCommandHandler.cs",
+              "RelativeDocumentMoniker": "CustomerOrders.Application\\Commands\\Customers\\DeleteCustomers\\DeleteCustomerCommandHandler.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Customers\\DeleteCustomers\\DeleteCustomerCommandHandler.cs",
+              "RelativeToolTip": "CustomerOrders.Application\\Commands\\Customers\\DeleteCustomers\\DeleteCustomerCommandHandler.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAArwBoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T07:37:04.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CreateOrderCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Orders\\CreateOrders\\CreateOrderCommandValidator.cs",
+              "RelativeDocumentMoniker": "CustomerOrders.Application\\Commands\\Orders\\CreateOrders\\CreateOrderCommandValidator.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Orders\\CreateOrders\\CreateOrderCommandValidator.cs",
+              "RelativeToolTip": "CustomerOrders.Application\\Commands\\Orders\\CreateOrders\\CreateOrderCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T10:21:02.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Domain\\Domain\\Product.cs",
+              "RelativeDocumentMoniker": "CustomerOrders.Domain\\Domain\\Product.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Domain\\Domain\\Product.cs",
+              "RelativeToolTip": "CustomerOrders.Domain\\Domain\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T19:53:24.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Domain\\Domain\\Item.cs",
+              "RelativeDocumentMoniker": "CustomerOrders.Domain\\Domain\\Item.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Domain\\Domain\\Item.cs",
+              "RelativeToolTip": "CustomerOrders.Domain\\Domain\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T19:52:48.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UpdateCustomerCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Customers\\UpdateCustomers\\UpdateCustomerCommandValidator.cs",
+              "RelativeDocumentMoniker": "CustomerOrders.Application\\Commands\\Customers\\UpdateCustomers\\UpdateCustomerCommandValidator.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Customers\\UpdateCustomers\\UpdateCustomerCommandValidator.cs",
+              "RelativeToolTip": "CustomerOrders.Application\\Commands\\Customers\\UpdateCustomers\\UpdateCustomerCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:17:27.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Domain\\Domain\\Customer.cs",
+              "RelativeDocumentMoniker": "CustomerOrders.Domain\\Domain\\Customer.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Domain\\Domain\\Customer.cs",
+              "RelativeToolTip": "CustomerOrders.Domain\\Domain\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T19:52:13.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "DeleteCustomerCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Customers\\DeleteCustomers\\DeleteCustomerCommand.cs",
+              "RelativeDocumentMoniker": "CustomerOrders.Application\\Commands\\Customers\\DeleteCustomers\\DeleteCustomerCommand.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Customers\\DeleteCustomers\\DeleteCustomerCommand.cs",
+              "RelativeToolTip": "CustomerOrders.Application\\Commands\\Customers\\DeleteCustomers\\DeleteCustomerCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T07:37:02.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Domain\\Domain\\Entity.cs",
+              "RelativeDocumentMoniker": "CustomerOrders.Domain\\Domain\\Entity.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Domain\\Domain\\Entity.cs",
+              "RelativeToolTip": "CustomerOrders.Domain\\Domain\\Entity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T19:51:30.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "GetOrderCommandHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Tests\\CommandhandlerTests\\OrderTests\\GetOrderCommandHandlerTests.cs",
+              "RelativeDocumentMoniker": "CustomerOrders.Tests\\CommandhandlerTests\\OrderTests\\GetOrderCommandHandlerTests.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Tests\\CommandhandlerTests\\OrderTests\\GetOrderCommandHandlerTests.cs",
+              "RelativeToolTip": "CustomerOrders.Tests\\CommandhandlerTests\\OrderTests\\GetOrderCommandHandlerTests.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAADIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:43:47.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "UpdateProductCommandHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Tests\\CommandhandlerTests\\ProductTests\\UpdateProductCommandHandlerTests.cs",
+              "RelativeDocumentMoniker": "CustomerOrders.Tests\\CommandhandlerTests\\ProductTests\\UpdateProductCommandHandlerTests.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Tests\\CommandhandlerTests\\ProductTests\\UpdateProductCommandHandlerTests.cs",
+              "RelativeToolTip": "CustomerOrders.Tests\\CommandhandlerTests\\ProductTests\\UpdateProductCommandHandlerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:45:27.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "GetProductCommandHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Tests\\CommandhandlerTests\\ProductTests\\GetProductCommandHandlerTests.cs",
+              "RelativeDocumentMoniker": "CustomerOrders.Tests\\CommandhandlerTests\\ProductTests\\GetProductCommandHandlerTests.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Tests\\CommandhandlerTests\\ProductTests\\GetProductCommandHandlerTests.cs",
+              "RelativeToolTip": "CustomerOrders.Tests\\CommandhandlerTests\\ProductTests\\GetProductCommandHandlerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAB9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:45:08.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "GetAllProductCommandHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Tests\\CommandhandlerTests\\ProductTests\\GetAllProductCommandHandlerTests.cs",
+              "RelativeDocumentMoniker": "CustomerOrders.Tests\\CommandhandlerTests\\ProductTests\\GetAllProductCommandHandlerTests.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Tests\\CommandhandlerTests\\ProductTests\\GetAllProductCommandHandlerTests.cs",
+              "RelativeToolTip": "CustomerOrders.Tests\\CommandhandlerTests\\ProductTests\\GetAllProductCommandHandlerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:44:52.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "UpdateCustomerCommandHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Tests\\CommandhandlerTests\\CustomerTests\\UpdateCustomerCommandHandlerTests.cs",
+              "RelativeDocumentMoniker": "CustomerOrders.Tests\\CommandhandlerTests\\CustomerTests\\UpdateCustomerCommandHandlerTests.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Tests\\CommandhandlerTests\\CustomerTests\\UpdateCustomerCommandHandlerTests.cs",
+              "RelativeToolTip": "CustomerOrders.Tests\\CommandhandlerTests\\CustomerTests\\UpdateCustomerCommandHandlerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:37:37.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "GetCustomerCommandHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Tests\\CommandhandlerTests\\CustomerTests\\GetCustomerCommandHandlerTests.cs",
+              "RelativeDocumentMoniker": "CustomerOrders.Tests\\CommandhandlerTests\\CustomerTests\\GetCustomerCommandHandlerTests.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Tests\\CommandhandlerTests\\CustomerTests\\GetCustomerCommandHandlerTests.cs",
+              "RelativeToolTip": "CustomerOrders.Tests\\CommandhandlerTests\\CustomerTests\\GetCustomerCommandHandlerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:36:58.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "GetAllCustomerCommandHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Tests\\CommandhandlerTests\\CustomerTests\\GetAllCustomerCommandHandlerTests.cs",
+              "RelativeDocumentMoniker": "CustomerOrders.Tests\\CommandhandlerTests\\CustomerTests\\GetAllCustomerCommandHandlerTests.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Tests\\CommandhandlerTests\\CustomerTests\\GetAllCustomerCommandHandlerTests.cs",
+              "RelativeToolTip": "CustomerOrders.Tests\\CommandhandlerTests\\CustomerTests\\GetAllCustomerCommandHandlerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAB9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:36:22.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "CreateCustomerCommandHandlers.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Customers\\CreateCustomers\\CreateCustomerCommandHandlers.cs",
+              "RelativeDocumentMoniker": "CustomerOrders.Application\\Commands\\Customers\\CreateCustomers\\CreateCustomerCommandHandlers.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Customers\\CreateCustomers\\CreateCustomerCommandHandlers.cs",
+              "RelativeToolTip": "CustomerOrders.Application\\Commands\\Customers\\CreateCustomers\\CreateCustomerCommandHandlers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAACmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T07:18:15.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "CreateCustomerCommandHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Tests\\CommandhandlerTests\\CustomerTests\\CreateCustomerCommandHandlerTests.cs",
+              "RelativeDocumentMoniker": "CustomerOrders.Tests\\CommandhandlerTests\\CustomerTests\\CreateCustomerCommandHandlerTests.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Tests\\CommandhandlerTests\\CustomerTests\\CreateCustomerCommandHandlerTests.cs",
+              "RelativeToolTip": "CustomerOrders.Tests\\CommandhandlerTests\\CustomerTests\\CreateCustomerCommandHandlerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:35:33.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "CreateCustomerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\DTOs\\CreateCustomerDTO.cs",
+              "RelativeDocumentMoniker": "CustomerOrders\\DTOs\\CreateCustomerDTO.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\DTOs\\CreateCustomerDTO.cs",
+              "RelativeToolTip": "CustomerOrders\\DTOs\\CreateCustomerDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:26:13.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "CustomerOrders\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "CustomerOrders\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAYwFkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T12:38:32.981Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 57,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Infrastructure\\Data\\Configurations\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CustomerOrders.Infrastructure\\Data\\Configurations\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Infrastructure\\Data\\Configurations\\AppDbContext.cs",
+              "RelativeToolTip": "CustomerOrders.Infrastructure\\Data\\Configurations\\AppDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T06:28:21.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Infrastructure\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "CustomerOrders.Infrastructure\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Infrastructure\\UnitOfWork.cs",
+              "RelativeToolTip": "CustomerOrders.Infrastructure\\UnitOfWork.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T07:06:28.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "CreateCustomerCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Customers\\CreateCustomers\\CreateCustomerCommand.cs",
+              "RelativeDocumentMoniker": "CustomerOrders.Application\\Commands\\Customers\\CreateCustomers\\CreateCustomerCommand.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Customers\\CreateCustomers\\CreateCustomerCommand.cs",
+              "RelativeToolTip": "CustomerOrders.Application\\Commands\\Customers\\CreateCustomers\\CreateCustomerCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T07:18:03.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "DeleteProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Products\\DeleteProducts\\DeleteProductCommand.cs",
+              "RelativeDocumentMoniker": "CustomerOrders.Application\\Commands\\Products\\DeleteProducts\\DeleteProductCommand.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Products\\DeleteProducts\\DeleteProductCommand.cs",
+              "RelativeToolTip": "CustomerOrders.Application\\Commands\\Products\\DeleteProducts\\DeleteProductCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T07:55:10.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
               "Title": "CreateCustomerCommandValidator.cs",
               "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Customers\\CreateCustomers\\CreateCustomerCommandValidator.cs",
               "RelativeDocumentMoniker": "CustomerOrders.Application\\Commands\\Customers\\CreateCustomers\\CreateCustomerCommandValidator.cs",
@@ -1185,12 +1199,11 @@
               "RelativeToolTip": "CustomerOrders.Application\\Commands\\Customers\\CreateCustomers\\CreateCustomerCommandValidator.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T07:31:47.767Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T07:31:47.767Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 63,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Infrastructure\\Data\\Repositories\\Repository.cs",
               "RelativeDocumentMoniker": "CustomerOrders.Infrastructure\\Data\\Repositories\\Repository.cs",
@@ -1198,12 +1211,11 @@
               "RelativeToolTip": "CustomerOrders.Infrastructure\\Data\\Repositories\\Repository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T06:27:58.096Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-31T06:27:58.096Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 64,
               "Title": "GetOrderQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Queries\\Orders\\GetOrderQueryHandler.cs",
               "RelativeDocumentMoniker": "CustomerOrders.Application\\Queries\\Orders\\GetOrderQueryHandler.cs",
@@ -1211,25 +1223,11 @@
               "RelativeToolTip": "CustomerOrders.Application\\Queries\\Orders\\GetOrderQueryHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T08:17:35.196Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T08:17:35.196Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
-              "Title": "ApiController.cs",
-              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\Abstractions\\ApiController.cs",
-              "RelativeDocumentMoniker": "CustomerOrders\\Abstractions\\ApiController.cs",
-              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\Abstractions\\ApiController.cs",
-              "RelativeToolTip": "CustomerOrders\\Abstractions\\ApiController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T12:54:25.818Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 65,
               "Title": "CustomerOrders.API.csproj",
               "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\CustomerOrders.API.csproj",
               "RelativeDocumentMoniker": "CustomerOrders\\CustomerOrders.API.csproj",
@@ -1237,12 +1235,11 @@
               "RelativeToolTip": "CustomerOrders\\CustomerOrders.API.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-04T06:32:04.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T06:32:04.373Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 66,
               "Title": "GetOrdersByDateQuery.cs",
               "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Queries\\Orders\\GetOrdersByDateQuery.cs",
               "RelativeDocumentMoniker": "CustomerOrders.Application\\Queries\\Orders\\GetOrdersByDateQuery.cs",
@@ -1254,19 +1251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\Program.cs",
-              "RelativeDocumentMoniker": "CustomerOrders\\Program.cs",
-              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\Program.cs",
-              "RelativeToolTip": "CustomerOrders\\Program.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAvwCoAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T12:41:03.758Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 67,
               "Title": "GetProductQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Queries\\Products\\GetProductQueryHandler.cs",
               "RelativeDocumentMoniker": "CustomerOrders.Application\\Queries\\Products\\GetProductQueryHandler.cs",
@@ -1278,7 +1263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 68,
               "Title": "GetAllProductsQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Queries\\Products\\GetAllProductsQueryHandler.cs",
               "RelativeDocumentMoniker": "CustomerOrders.Application\\Queries\\Products\\GetAllProductsQueryHandler.cs",
@@ -1290,7 +1275,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 69,
               "Title": "GetAllProductsQuery.cs",
               "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Queries\\Products\\GetAllProductsQuery.cs",
               "RelativeDocumentMoniker": "CustomerOrders.Application\\Queries\\Products\\GetAllProductsQuery.cs",
@@ -1302,7 +1287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 70,
               "Title": "GetProductQuery.cs",
               "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Queries\\Products\\GetProductQuery.cs",
               "RelativeDocumentMoniker": "CustomerOrders.Application\\Queries\\Products\\GetProductQuery.cs",
@@ -1314,7 +1299,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 71,
               "Title": "GetOrderQuery.cs",
               "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Queries\\Orders\\GetOrderQuery.cs",
               "RelativeDocumentMoniker": "CustomerOrders.Application\\Queries\\Orders\\GetOrderQuery.cs",
@@ -1326,7 +1311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 73,
               "Title": "GetCustomerQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Queries\\Customers\\GetCustomerQueryHandler.cs",
               "RelativeDocumentMoniker": "CustomerOrders.Application\\Queries\\Customers\\GetCustomerQueryHandler.cs",
@@ -1338,7 +1323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 74,
               "Title": "GetAllCustomersQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Queries\\Customers\\GetAllCustomersQueryHandler.cs",
               "RelativeDocumentMoniker": "CustomerOrders.Application\\Queries\\Customers\\GetAllCustomersQueryHandler.cs",
@@ -1350,7 +1335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 72,
               "Title": "GetCustomerQuery.cs",
               "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Queries\\Customers\\GetCustomerQuery.cs",
               "RelativeDocumentMoniker": "CustomerOrders.Application\\Queries\\Customers\\GetCustomerQuery.cs",
@@ -1362,7 +1347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 75,
               "Title": "GetAllCustomersQuery.cs",
               "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Queries\\Customers\\GetAllCustomersQuery.cs",
               "RelativeDocumentMoniker": "CustomerOrders.Application\\Queries\\Customers\\GetAllCustomersQuery.cs",
@@ -1374,7 +1359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 76,
               "Title": "DeleteOrderCommand.cs",
               "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Commands\\Orders\\DeleteOrders\\DeleteOrderCommand.cs",
               "RelativeDocumentMoniker": "CustomerOrders.Application\\Commands\\Orders\\DeleteOrders\\DeleteOrderCommand.cs",
@@ -1386,7 +1371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 77,
               "Title": "ICommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Abstractions\\ICommandHandler.cs",
               "RelativeDocumentMoniker": "CustomerOrders.Application\\Abstractions\\ICommandHandler.cs",
@@ -1398,7 +1383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 78,
               "Title": "ICommand.cs",
               "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Abstractions\\ICommand.cs",
               "RelativeDocumentMoniker": "CustomerOrders.Application\\Abstractions\\ICommand.cs",
@@ -1410,7 +1395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 79,
               "Title": "CustomerOrders.Application.csproj",
               "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\CustomerOrders.Application.csproj",
               "RelativeDocumentMoniker": "CustomerOrders.Application\\CustomerOrders.Application.csproj",
@@ -1422,7 +1407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 81,
               "Title": "ResultT.cs",
               "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Domain\\Shared\\ResultT.cs",
               "RelativeDocumentMoniker": "CustomerOrders.Domain\\Shared\\ResultT.cs",
@@ -1434,7 +1419,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 80,
               "Title": "ValidationPipelineBehavior.cs",
               "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders\\Behaviors\\ValidationPipelineBehavior.cs",
               "RelativeDocumentMoniker": "CustomerOrders\\Behaviors\\ValidationPipelineBehavior.cs",
@@ -1446,7 +1431,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 82,
+              "DocumentIndex": 83,
               "Title": "ValidationResultT.cs",
               "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Domain\\Shared\\ValidationResultT.cs",
               "RelativeDocumentMoniker": "CustomerOrders.Domain\\Shared\\ValidationResultT.cs",
@@ -1458,7 +1443,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 81,
+              "DocumentIndex": 82,
               "Title": "Error.cs",
               "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Domain\\Shared\\Error.cs",
               "RelativeDocumentMoniker": "CustomerOrders.Domain\\Shared\\Error.cs",
@@ -1470,7 +1455,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 83,
+              "DocumentIndex": 84,
               "Title": "Result.cs",
               "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Domain\\Shared\\Result.cs",
               "RelativeDocumentMoniker": "CustomerOrders.Domain\\Shared\\Result.cs",
@@ -1482,7 +1467,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 84,
+              "DocumentIndex": 85,
               "Title": "20240904181421_hghghg.cs",
               "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Infrastructure\\Migrations\\20240904181421_hghghg.cs",
               "RelativeDocumentMoniker": "CustomerOrders.Infrastructure\\Migrations\\20240904181421_hghghg.cs",
@@ -1493,7 +1478,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 85,
+              "DocumentIndex": 86,
               "Title": "ValidationResult.cs",
               "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Domain\\Shared\\ValidationResult.cs",
               "RelativeDocumentMoniker": "CustomerOrders.Domain\\Shared\\ValidationResult.cs",
@@ -1505,7 +1490,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 86,
+              "DocumentIndex": 87,
               "Title": "IValidationResult.cs",
               "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Domain\\Shared\\IValidationResult.cs",
               "RelativeDocumentMoniker": "CustomerOrders.Domain\\Shared\\IValidationResult.cs",
@@ -1517,7 +1502,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 87,
+              "DocumentIndex": 88,
               "Title": "CustomerOrders.Domain.csproj",
               "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Domain\\CustomerOrders.Domain.csproj",
               "RelativeDocumentMoniker": "CustomerOrders.Domain\\CustomerOrders.Domain.csproj",
@@ -1529,7 +1514,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 90,
+              "DocumentIndex": 91,
               "Title": "OrderConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Infrastructure\\Data\\Configurations\\OrderConfiguration.cs",
               "RelativeDocumentMoniker": "CustomerOrders.Infrastructure\\Data\\Configurations\\OrderConfiguration.cs",
@@ -1541,7 +1526,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 91,
+              "DocumentIndex": 92,
               "Title": "ItemConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Infrastructure\\Data\\Configurations\\ItemConfiguration.cs",
               "RelativeDocumentMoniker": "CustomerOrders.Infrastructure\\Data\\Configurations\\ItemConfiguration.cs",
@@ -1553,7 +1538,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 89,
+              "DocumentIndex": 90,
               "Title": "ProductConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Infrastructure\\Data\\Configurations\\ProductConfiguration.cs",
               "RelativeDocumentMoniker": "CustomerOrders.Infrastructure\\Data\\Configurations\\ProductConfiguration.cs",
@@ -1565,7 +1550,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 88,
+              "DocumentIndex": 89,
               "Title": "CustomerConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Infrastructure\\Data\\Configurations\\CustomerConfiguration.cs",
               "RelativeDocumentMoniker": "CustomerOrders.Infrastructure\\Data\\Configurations\\CustomerConfiguration.cs",
@@ -1577,7 +1562,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 92,
+              "DocumentIndex": 93,
               "Title": "ValueObject.cs",
               "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Domain\\Domain\\Primitives\\ValueObject.cs",
               "RelativeDocumentMoniker": "CustomerOrders.Domain\\Domain\\Primitives\\ValueObject.cs",
@@ -1589,7 +1574,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 93,
+              "DocumentIndex": 94,
               "Title": "20240903085720_jjjj.cs",
               "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Infrastructure\\Migrations\\20240903085720_jjjj.cs",
               "RelativeDocumentMoniker": "CustomerOrders.Infrastructure\\Migrations\\20240903085720_jjjj.cs",
@@ -1600,7 +1585,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 94,
+              "DocumentIndex": 95,
               "Title": "CustomerOrders.Infrastructure.csproj",
               "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Infrastructure\\CustomerOrders.Infrastructure.csproj",
               "RelativeDocumentMoniker": "CustomerOrders.Infrastructure\\CustomerOrders.Infrastructure.csproj",
@@ -1612,7 +1597,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 95,
+              "DocumentIndex": 96,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Domain\\Interfaces\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "CustomerOrders.Domain\\Interfaces\\IUnitOfWork.cs",
@@ -1624,7 +1609,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 96,
+              "DocumentIndex": 97,
               "Title": "CustomException.cs",
               "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Application\\Exceptions\\CustomException.cs",
               "RelativeDocumentMoniker": "CustomerOrders.Application\\Exceptions\\CustomException.cs",
@@ -1636,7 +1621,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 97,
+              "DocumentIndex": 98,
               "Title": "IOrderRepository.cs",
               "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Domain\\Interfaces\\IOrderRepository.cs",
               "RelativeDocumentMoniker": "CustomerOrders.Domain\\Interfaces\\IOrderRepository.cs",
@@ -1648,7 +1633,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 98,
+              "DocumentIndex": 99,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\CustomerOrders\\CustomerOrders.Domain\\Interfaces\\IRepository.cs",
               "RelativeDocumentMoniker": "CustomerOrders.Domain\\Interfaces\\IRepository.cs",
